@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "范存航"
+title: "Cunhang Fan（范存航）"
 author_profile: true
 redirect_from: 
   - /about/
