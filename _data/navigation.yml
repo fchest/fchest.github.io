@@ -5,7 +5,7 @@ main:
   
         
   - title: "Academic service"
-    url: /_talks/
+    url: /talks/
     
   - title: "Academic Honors"
     url: /honors/
