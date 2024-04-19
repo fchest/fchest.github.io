@@ -1,4 +1,4 @@
 ---
-title : "Chairs"
----
+Chairs
+=========
 * publication chair
