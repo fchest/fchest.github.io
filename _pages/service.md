@@ -16,16 +16,17 @@ redirect_from:
 </script>
 {% include base_path %}
 
-Program Committee
+Chairs
 ======
-* NeurIPS 2021, 2022, 2023
-* ICML 2022, 2023, 2024
-* IJCAI 2019, 2020, 2022, 2023, 2024
-* AAAI 2020, 2021, 2022, 2023, 2024
-* ACM Multimedia 2021, 2022, 2023, 2024
-* CVPR 2024
-* KDD 2024
-* ICLR 2022, 2023, 2024
-* ECAI 2020
-* ICME 2021, 2022, 2023, 2024
-* ICASSP 2023, 2024
+*Publication Chair, IEEE SLT 2024
+*Publication Chair, IALP 2024
+*Area Chair, APSIPA ASC 2023
+*Publication Chair, IJCAI 2023 Workshop on Deepfake Audio Detection and Analysis (DADA 2023)
+*Program Chair, 1st International Workshop onDeepfake Detection for Audio Multimedia (DDAM 2022)
+
+
+Guest Editors
+======
+*Frontiers in Neuroscience
+*Applied Sciences
+*Big Data and Cognitive Computing
