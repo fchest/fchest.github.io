@@ -1,7 +1,7 @@
 ---
 title: "End-to-End Post-filter for Speech Separation with Deep Attention Fusion Features"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/paper1
 date: 2024-02-17
 venue: 'IEEE/ACM Transactions on Audio, Speech, and Language Processing'
 paperurl: 'https://fchest.github.io/pub/Trans1.pdf'
