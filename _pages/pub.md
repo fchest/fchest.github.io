@@ -25,7 +25,7 @@ Journal Papers
 
 *  pulished in IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024
 
-  **Cunhang Fan**; Mingming Ding; Jianhua Tao; Ruibo Fu; Jiangyan Yi; Zhengqi Wen; Zhao Lv, Dual-Branch Knowledge Distillation for Noise-Robust Synthetic Speech Detection. IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024.
+   **Cunhang Fan**; Mingming Ding; Jianhua Tao; Ruibo Fu; Jiangyan Yi; Zhengqi Wen; Zhao Lv, Dual-Branch Knowledge Distillation for Noise-Robust Synthetic Speech Detection. IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024.
 * pulished in IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020
 
   **Cunhang Fan**; Jianhua Tao; Bin Liu; Jiangyan Yi; Zhengqi Wen; Xuefei Liu, End-to-End Post-filter for Speech Separation with Deep Attention Fusion Features, IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020, 28:1303-1314.
