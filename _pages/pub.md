@@ -1,9 +1,9 @@
 ---
 layout: archive
-permalink: /service/
+permalink: /pub/
 author_profile: true
 redirect_from:
-  - /service
+  - /pub
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-T0S164QJL9"></script>
