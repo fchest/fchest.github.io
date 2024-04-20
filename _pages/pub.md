@@ -18,17 +18,19 @@ redirect_from:
 
 Selected Publications
 =====
+=====
 
-Chairs
+Journal Papers
 ======
-* Publication Chair, IEEE SLT 2024
+* pulished in IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020
+  **Cunhang Fan**; Jianhua Tao; Bin Liu; Jiangyan Yi; Zhengqi Wen; Xuefei Liu, End-to-End Post-filter for Speech Separation with Deep Attention Fusion Features, IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020, 28:1303-1314.
 * Publication Chair, IALP 2024
 * Area Chair, APSIPA ASC 2023
 * Publication Chair, IJCAI 2023 Workshop on Deepfake Audio Detection and Analysis (DADA 2023)
 * Program Chair, 1st International Workshop onDeepfake Detection for Audio Multimedia (DDAM 2022)
 
 
-Guest Editors
+Conference Papers
 ======
 * Frontiers in Neuroscience
 * Applied Sciences
