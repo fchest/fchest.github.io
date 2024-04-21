@@ -25,6 +25,6 @@ News:
 * The paper "Subband Fusion of Complex Spectrogram for Fake Speech Detection" has been acceptde by  Speech Communication, 2023 **(中科院一区top）**
 * The paper "LEARNING FROM YOURSELF: A SELF-DISTILLATION METHOD FOR FAKE SPEECH DETECTION" has been accepted by ICASSP ,2023 **(语音领域顶级会议，CCF B)**
 * The paper "CompNet: Complementary network for single-channel speech enhancement" has been accepted by Neural Networks **(中科院一区top，CCF B)**
-* 团队获“全国人工智能应用场景创新挑战赛”全国二等奖
-* 安徽大学生物信息感知与人机交互实验室获国际多模态情感分析挑战冠军
+* 指导团队获“全国人工智能应用场景创新挑战赛”全国二等奖
+* 指导团队获国际多模态情感分析挑战冠军
 * 引领智能助残赛道，实验室脑机康复项目斩获特等奖
