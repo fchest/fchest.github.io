@@ -57,7 +57,7 @@ Journal Papers
 * published in Biomedical Signal Processing and Control, 2024 **(中科院2区）**
 
   **Cunhang Fan**; Heng Xie, Jianhua Tao, Yongwei Li, Guanxiong Pei, Taihao Li, Zhao Lv, ICaps-ResLSTM: Improved capsule network and residual LSTM for EEG emotion recognition, Biomedical Signal Processing and Control, 2024, 87: 105422.[paper](https://www.sciencedirect.com/science/article/pii/S1746809423008558)
-* pulished in Journal of Neuroscience Methods, 2022 **(中科院1区）**
+* pulished in Journal of Neuroscience Methods, 2022 **(中科院一区top）**
 
   Rui Ouyang, Zihao Jin, Shuhao Tang, **Cunhang Fan#** and Xiaopei Wu. Low-quality training data detection method of EEG signals for motor imagery BCI system[J]. Journal of Neuroscience Methods, 2022, 376: 109607.(Corresponding author)[paper](https://fchest.github.io/pub/JNM.pdf)
 
