@@ -14,3 +14,7 @@ My research interests include:
 * Speech Processing (Speech Enhancement and Separation, ASR, Fake Speech Detection)
 
 * Brain-Computer Interface (Auditory Attention Decoding, Emotion Recognition, Motor Imagery)
+
+News:
+----
+* **Apr 19,2024** The paper "Dual-Branch Knowledge Distillation for Noise-Robust Synthetic Speech Detection" has been accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing（CAAI A，CCF B）
