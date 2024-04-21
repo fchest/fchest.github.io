@@ -32,13 +32,13 @@ Journal Papers
 * published in IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2021 **(语音领域顶级期刊)**
 
   **Cunhang Fan**; Jiangyan Yi; Jianhua Tao; Zhengkun Tian; Bin Liu; Zhengqi Wen, Gated Recurrent Fusion with Joint Training Framework for Robust End-to-End Speech Recognition, IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2021, 29:198-209.[paper](https://fchest.github.io/pub/Trans2.pdf)
-* published in Advanced Engineering Informatics, 2024 **(一区top，CCF B)**
+* published in Advanced Engineering Informatics, 2024 **(中科院一区top，CCF B)**
 
   **Cunhang Fan**; Jinqin Wang; Wei Huang; Xiaoke Yang; Guangxiong Pei; Taihao Li; Zhao Lv. Light-weight residual convolution-based capsule network for EEG emotion recognition. Advanced Engineering Informatics, 2024, Volume 61, 102522.[paper](https://www.sciencedirect.com/science/article/pii/S1474034624001708)[code](https://github.com/fchest/LResCapsule)
-* published in Neural Networks, 2024 **（一区top）**
+* published in Neural Networks, 2024 **（中科院一区top，CCF B）**
 
-  **Cunhang Fan**; Jun Xue; Jianhua Tao; Jiangyan Yi; Chenglong Wang; Chengshi Zheng; Zhao Lv, Spatial Reconstructed Local Attention Res2Net with F0 Subband for Fake Speech Detection. Neural Networks, 2024, Volume 175, 106320.[paper](https://arxiv.org/pdf/2308.09944.pdf)
-* published in Neural Networks, 2023  **（一区top）**
+  **Cunhang Fan**; Jun Xue; Jianhua Tao; Jiangyan Yi; Chenglong Wang; Chengshi Zheng; Zhao Lv, Spatial Reconstructed Local Attention Res2Net with F0 Subband for Fake Speech Detection. Neural Networks, 2024, Volume 175, 106320.[paper](https://arxiv.org/pdf/2308.09944.pdf)[code](https://github.com/JunXue-tech/SRLARes2NetF0Subband)
+* published in Neural Networks, 2023  **（中科院一区top，CCF B）**
 
   **Cunhang Fan**; Hongmei Zhang; Andong Li; Wang Xiang; Chengshi Zheng; Zhao Lv; Xiaopei Wu, CompNet: Complementary network for single-channel speech enhancement, Neural Networks, 2023, 168:508-517.[paper](https://fchest.github.io/pub/neural-networks-compnet-se.pdf)[code](https://github.com/fchest/CompNet)
 * published in Speech Communication, 2023 **(语音领域top-2期刊，CCF B)**
