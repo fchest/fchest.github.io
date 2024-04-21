@@ -44,7 +44,7 @@ Journal Papers
 * published in Speech Communication, 2023 **(语音领域top-2期刊，CCF B)**
 
   **Cunhang Fan**; Jun Xue; Shunbo Dong; Mingming Ding; Jiangyan Yi; Jinpeng Li; Zhao Lv, Subband Fusion of Complex Spectrogram for Fake Speech Detection, Speech Communication, 2023, 155: 102988.[paper](https://fchest.github.io/pub/speech-communication-spoof.pdf)
-* published in  Knowledge-Based Systems, 2024 **(中科院2区）**
+* published in  Knowledge-Based Systems, 2024 **(中科院一区top）**
 
   Guofeng Yi; **Cunhang Fan#**; Kang Zhu; Zhao Lv; Shan Liang; Zhengqi Wen; Guanxiong Pei; Taihao Li; Jianhua Tao, VLP2MSA: Expanding vision-language pre-training to multimodal sentiment analysis, Knowledge-Based Systems, 2024, 283: 111136.(Corresponding author)[paper](https://www.sciencedirect.com/science/article/pii/S0950705123008869)
 * published in Applied Acoustics, 2022 **(中科院2区）**
