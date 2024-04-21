@@ -18,6 +18,7 @@ redirect_from:
 
 Selected Publications
 =====
+The full list of my publications can be found on my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=QbnlF74AAAAJ)
 
 
 Journal Papers
