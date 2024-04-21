@@ -24,7 +24,7 @@ author:
   avatar           : "fch.png"
   name             : "Cunhang Fan"
   pronouns         : # example: "she/her"  
-  bio              : "School of Computer Science and Technology,Anhui University "
+  bio              : "School of Computer Science and Technology,Anhui University 12"
   location         : " Hefei, China"
   #employer         : 
   uri              : # URL
@@ -36,7 +36,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=QbnlF74AAAAJ"
   impactstory      : # URL
   #personal website : "https://cs.ahu.edu.cn/2023/0222/c20807a301350/page.htm"
-  personal website : "https://cs.ahu.edu.cn/2023/0222/c20807a301350/page.htm"
+  #personal website : "https://cs.ahu.edu.cn/2023/0222/c20807a301350/page.htm"
   #researchgate     : # URL
 
   # Repositories and software development
