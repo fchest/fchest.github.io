@@ -23,12 +23,12 @@ Selected Publications
 Journal Papers
 ======
 
-*  pulished in IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024
+*  pulished in IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024 **(语音领域顶级期刊)**
 
-   **Cunhang Fan**; Mingming Ding; Jianhua Tao; Ruibo Fu; Jiangyan Yi; Zhengqi Wen; Zhao Lv, Dual-Branch Knowledge Distillation for Noise-Robust Synthetic Speech Detection. IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024.[paper](https://lzwahu.github.io/)
-* pulished in IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020
+   **Cunhang Fan**; Mingming Ding; Jianhua Tao; Ruibo Fu; Jiangyan Yi; Zhengqi Wen; Zhao Lv, Dual-Branch Knowledge Distillation for Noise-Robust Synthetic Speech Detection. IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024.[paper](https://arxiv.org/pdf/2310.08869.pdf) [code](https://github.com/fchest/DKDSSD)
+* pulished in IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020 **(语音领域顶级期刊)**
 
-  **Cunhang Fan**; Jianhua Tao; Bin Liu; Jiangyan Yi; Zhengqi Wen; Xuefei Liu, End-to-End Post-filter for Speech Separation with Deep Attention Fusion Features, IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020, 28:1303-1314.
+  **Cunhang Fan**; Jianhua Tao; Bin Liu; Jiangyan Yi; Zhengqi Wen; Xuefei Liu, End-to-End Post-filter for Speech Separation with Deep Attention Fusion Features, IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020, 28:1303-1314.[paper](https://fchest.github.io/pub/Trans1.pdf)
 * published in IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2021
 
   **Cunhang Fan**; Jiangyan Yi; Jianhua Tao; Zhengkun Tian; Bin Liu; Zhengqi Wen, Gated Recurrent Fusion with Joint Training Framework for Robust End-to-End Speech Recognition, IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2021, 29:198-209.
