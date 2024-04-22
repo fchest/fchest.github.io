@@ -73,6 +73,13 @@ Conference Papers
 * published in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, 2023  **(语音领域顶级会议，CCF B)**
 
   Jun Xue, **Cunhang Fan#**, Jiangyan Yi, Chenglong Wang, Zhengqi Wen, Dan Zhang and Zhao Lv, LEARNING FROM YOURSELF: A SELF-DISTILLATION METHOD FOR FAKE SPEECH DETECTION, 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, 2023, pp. 1-5.(Corresponding author)[paper](https://arxiv.org/pdf/2303.01211.pdf)
+* published in IEEE International Conference on Multimedia and Expo, 2024 **(CCF B)**
+
+  Kang Zhu; **Cunhang Fan#**; Jianhua Tao; Jun Xue; Heng Xie; Xuefei Liu; Yongwei Li; Zhengqi Wen; Zhao Lv, DUAL-VIEW MULTIMODAL INTERACTION IN MULTIMODAL SENTIMENT ANALYSIS. IEEE International Conference on Multimedia and Expo, 2024.(Corresponding author)
+* published in Findings of 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL). 2024 **(CCF B)**
+
+  Yonghui Kong; **Cunhang Fan#**; Yujie Chen; Shuai Zhang; Zhao Lv; Jianhua Tao,Bilateral Masking with prompt for Knowledge Graph Completion.In: Findings of 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL). 2024.(Corresponding author)
+
 * published in the 20th Annual Conference of the International Speech Communication Association (INTERSPEECH 2019)  **(语音领域顶级会议，CCF C)**
 
   **Cunhang Fan**, Bin Liu, Jianhua Tao, Jiangyan Yi, Zhengqi Wen, Discriminative Learning for Monaural Speech Separation Using Deep Embedding Features, the 20th Annual Conference of the International Speech Communication Association (INTERSPEECH 2019), Graz, 2019, 4599-4604.[paper](https://fchest.github.io/pub/interspeech2019.pdf)
