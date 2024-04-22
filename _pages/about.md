@@ -22,9 +22,4 @@ News:
 * The paper "Spatial Reconstructed Local Attention Res2Net with F0 Subband for Fake Speech Detection" has been accepted by Neural Networks **(中科院一区top，CCF B)**
 * The paper "Light-weight residual convolution-based capsule network for EEG emotion recognition" has been accepted by ADVANCED ENGINEERING INFORMATICS **(中科院一区top）**
 * The paper "Progressive Distillation Based on Masked Generation Feature Method for Knowledge Graph Completion" has been accepted by Proceedings of the AAAI Conference on Artificial Intelligence, 2024 **(CCF A)**
-* The paper "Subband Fusion of Complex Spectrogram for Fake Speech Detection" has been acceptde by  Speech Communication, 2023 **(中科院一区top）**
-* The paper "LEARNING FROM YOURSELF: A SELF-DISTILLATION METHOD FOR FAKE SPEECH DETECTION" has been accepted by ICASSP ,2023 **(语音领域顶级会议，CCF B)**
-* The paper "CompNet: Complementary network for single-channel speech enhancement" has been accepted by Neural Networks **(中科院一区top，CCF B)**
-* 指导团队获“全国人工智能应用场景创新挑战赛”全国二等奖
-* 指导团队获国际多模态情感分析挑战冠军
-* 引领智能助残赛道，实验室脑机康复项目斩获特等奖
+
