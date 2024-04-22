@@ -27,6 +27,6 @@ Chairs
 
 Guest Editors
 ======
-* [Frontiers in Neuroscience]
-* Applied Sciences
-* Big Data and Cognitive Computing
+* [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience)
+* [Applied Sciences](https://www.mdpi.com/journal/applsci)
+* [Big Data and Cognitive Computing](https://www2.mdpi.com/journal/BDCC)
