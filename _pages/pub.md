@@ -43,7 +43,7 @@ Journal Papers
   **Cunhang Fan**; Jun Xue; Jianhua Tao; Jiangyan Yi; Chenglong Wang; Chengshi Zheng; Zhao Lv, Spatial Reconstructed Local Attention Res2Net with F0 Subband for Fake Speech Detection. Neural Networks, 2024, Volume 175, 106320.[paper](https://arxiv.org/pdf/2308.09944.pdf)[code](https://github.com/JunXue-tech/SRLARes2NetF0Subband)
 * published in Neural Networks, 2023  **（中科院一区top，CCF B）**
 
-  **Cunhang Fan**; Hongmei Zhang; Andong Li; Wang Xiang; Chengshi Zheng; Zhao Lv; Xiaopei Wu, CompNet: Complementary network for single-channel speech enhancement, Neural Networks, 2023, 168:508-517.[paper](https://www.sciencedirect.com/science/article/pii/S089360802300535X)[code](https://github.com/fchest/CompNet)
+  **Cunhang Fan**; Hongmei Zhang; Andong Li; Wang Xiang; Chengshi Zheng; Zhao Lv; Xiaopei Wu, CompNet: Complementary network for single-channel speech enhancement, Neural Networks, 2023, 168:508-517.[paper](https://fchest.github.io/pub/neural-networks-compnet-se.pdf)[code](https://github.com/fchest/CompNet)
 * published in Speech Communication, 2023 **(语音领域top-2期刊，CCF B)**
 
   **Cunhang Fan**; Jun Xue; Shunbo Dong; Mingming Ding; Jiangyan Yi; Jinpeng Li; Zhao Lv, Subband Fusion of Complex Spectrogram for Fake Speech Detection, Speech Communication, 2023, 155: 102988.[paper](https://www.sciencedirect.com/science/article/pii/S016763932300122X)
