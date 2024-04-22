@@ -63,10 +63,10 @@ Conference Papers
 ======
 * published in Proceedings of the AAAI Conference on Artificial Intelligence, 2024 **(CCF A)**
 
-  **Cunhang Fan**; Yujie Chen; Jun Xue; Yonghui Kong; Jianhua Tao; Zhao Lv. Progressive Distillation Based on Masked Generation Feature Method for Knowledge Graph Completion. Proceedings of the AAAI Conference on Artificial Intelligence, 2024, 38(8), 8380-8388.[paper](https://arxiv.org/pdf/2401.12997.pdf)
+  **Cunhang Fan**; Yujie Chen; Jun Xue; Yonghui Kong; Jianhua Tao; Zhao Lv. Progressive Distillation Based on Masked Generation Feature Method for Knowledge Graph Completion. Proceedings of the AAAI Conference on Artificial Intelligence, 2024, 38(8), 8380-8388.[paper](https://arxiv.org/pdf/2401.12997.pdf)[code]( https://github.com/cyjie429/pmd)
 * published in International Joint Conference on Artificial Intelligence (IJCAI 2024) **(CCF A)**
 
-  Qinke Ni; Hongyu Zhang; **Cunhang Fan#**; Shengbing Pei; Chang Zhou; Zhao Lv, DBPNet: Dual-Branch Parallel Network with Temporal-Frequency Fusion for Auditory Attention Detection. International Joint Conference on Artificial Intelligence (IJCAI 2024). (Corresponding author)
+  Qinke Ni; Hongyu Zhang; **Cunhang Fan#**; Shengbing Pei; Chang Zhou; Zhao Lv, DBPNet: Dual-Branch Parallel Network with Temporal-Frequency Fusion for Auditory Attention Detection. International Joint Conference on Artificial Intelligence (IJCAI 2024). (Corresponding author)[code]( https://github.com/fchest/DBPNet)
 * published in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, 2022 **(语音领域顶级会议，CCF B)**
 
   **Cunhang Fan**, Zhao Lv, Shengbing Pei, Mingyue Niu, Csenet: Complex Squeeze-and-Excitation Network for Speech Depression Level Prediction, 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, 2022, pp. 546-550.[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9746011)[code](https://github.com/fchest/CSENet)
