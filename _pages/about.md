@@ -22,4 +22,6 @@ News:
 * The paper "Spatial Reconstructed Local Attention Res2Net with F0 Subband for Fake Speech Detection" has been accepted by Neural Networks **(中科院一区top，CCF B)**
 * The paper "Light-weight residual convolution-based capsule network for EEG emotion recognition" has been accepted by ADVANCED ENGINEERING INFORMATICS **(中科院一区top）**
 * The paper "Progressive Distillation Based on Masked Generation Feature Method for Knowledge Graph Completion" has been accepted by Proceedings of the AAAI Conference on Artificial Intelligence, 2024 **(CCF A)**
+* The paper "DUAL-VIEW MULTIMODAL INTERACTION IN MULTIMODAL SENTIMENT ANALYSIS" has been accepted by IEEE International Conference on Multimedia and Expo, 2024 **(CCF B)**
+* The paper "Bilateral Masking with prompt for Knowledge Graph Completion" has been accepted by Findings of 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL). 2024 **(CCF B)**
 
