@@ -24,13 +24,13 @@ The full list of my publications can be found on my [Google Scholar](https://sch
 Journal Papers
 ======
 
-*  pulished in IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024 **(语音领域顶级期刊)**
+*  pulished in IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024 **(语音领域顶级期刊,CCF B)**
 
    **Cunhang Fan**; Mingming Ding; Jianhua Tao; Ruibo Fu; Jiangyan Yi; Zhengqi Wen; Zhao Lv, Dual-Branch Knowledge Distillation for Noise-Robust Synthetic Speech Detection. IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024.[paper](https://arxiv.org/pdf/2310.08869.pdf) [code](https://github.com/fchest/DKDSSD)
-* pulished in IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020 **(语音领域顶级期刊)**
+* pulished in IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020 **(语音领域顶级期刊,CCF B)**
 
   **Cunhang Fan**; Jianhua Tao; Bin Liu; Jiangyan Yi; Zhengqi Wen; Xuefei Liu, End-to-End Post-filter for Speech Separation with Deep Attention Fusion Features, IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020, 28:1303-1314.[paper](https://fchest.github.io/pub/Trans1.pdf)
-* published in IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2021 **(语音领域顶级期刊)**
+* published in IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2021 **(语音领域顶级期刊,CCF B)**
 
   **Cunhang Fan**; Jiangyan Yi; Jianhua Tao; Zhengkun Tian; Bin Liu; Zhengqi Wen, Gated Recurrent Fusion with Joint Training Framework for Robust End-to-End Speech Recognition, IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2021, 29:198-209.[paper](https://fchest.github.io/pub/Trans2.pdf)
 * published in Advanced Engineering Informatics, 2024 **(中科院一区top，CCF B)**
@@ -57,9 +57,7 @@ Journal Papers
 * published in Biomedical Signal Processing and Control, 2024 **(中科院2区）**
 
   **Cunhang Fan**; Heng Xie, Jianhua Tao, Yongwei Li, Guanxiong Pei, Taihao Li, Zhao Lv, ICaps-ResLSTM: Improved capsule network and residual LSTM for EEG emotion recognition, Biomedical Signal Processing and Control, 2024, 87: 105422.[paper](https://www.sciencedirect.com/science/article/pii/S1746809423008558)
-* pulished in Journal of Neuroscience Methods, 2022 **(中科院一区top）**
 
-  Rui Ouyang, Zihao Jin, Shuhao Tang, **Cunhang Fan#** and Xiaopei Wu. Low-quality training data detection method of EEG signals for motor imagery BCI system[J]. Journal of Neuroscience Methods, 2022, 376: 109607.(Corresponding author)[paper](https://fchest.github.io/pub/JNM.pdf)
 
 Conference Papers
 ======
@@ -75,13 +73,13 @@ Conference Papers
 * published in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, 2023  **(语音领域顶级会议，CCF B)**
 
   Jun Xue, **Cunhang Fan#**, Jiangyan Yi, Chenglong Wang, Zhengqi Wen, Dan Zhang and Zhao Lv, LEARNING FROM YOURSELF: A SELF-DISTILLATION METHOD FOR FAKE SPEECH DETECTION, 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, 2023, pp. 1-5.(Corresponding author)[paper](https://arxiv.org/pdf/2303.01211.pdf)
-* published in the 20th Annual Conference of the International Speech Communication Association (INTERSPEECH 2019)  **(语音领域顶级会议，CCF B)**
+* published in the 20th Annual Conference of the International Speech Communication Association (INTERSPEECH 2019)  **(语音领域顶级会议，CCF C)**
 
   **Cunhang Fan**, Bin Liu, Jianhua Tao, Jiangyan Yi, Zhengqi Wen, Discriminative Learning for Monaural Speech Separation Using Deep Embedding Features, the 20th Annual Conference of the International Speech Communication Association (INTERSPEECH 2019), Graz, 2019, 4599-4604.[paper](https://fchest.github.io/pub/interspeech2019.pdf)
-* published in  the 21th Annual Conference of the International Speech Communication Association (INTERSPEECH 2020)  **(语音领域顶级会议，CCF B)**
+* published in  the 21th Annual Conference of the International Speech Communication Association (INTERSPEECH 2020)  **(语音领域顶级会议，CCF C)**
 
   **Cunhang Fan**, Jianhua Tao, Bin Liu, Jiangyan Yi, Zhengqi Wen, Gated Recurrent Fusion of Spatial and Spectral Features for Multi-channel Speech Separation with Deep Embedding Representations, the 21th Annual Conference of the International Speech Communication Association (INTERSPEECH 2020), Shanghai, 2020, 3321-3325.[paper](https://fchest.github.io/pub/interspeech2020.pdf)
-* published in  the 21th Annual Conference of the International Speech Communication Association (INTERSPEECH 2020)  **(语音领域顶级会议，CCF B)**
+* published in  the 21th Annual Conference of the International Speech Communication Association (INTERSPEECH 2020)  **(语音领域顶级会议，CCF C)**
 
   **Cunhang Fan**, Jianhua Tao, Bin Liu, Jiangyan Yi, Zhengqi Wen, Joint Training for Simultaneous Speech Denoising and Dereverberation with Deep Embedding Representations, the 21th Annual Conference of the International Speech Communication Association (INTERSPEECH 2020), Shanghai, 2020, 4536-4540.[paper](https://fchest.github.io/pub/interspeech20201.pdf)
 
