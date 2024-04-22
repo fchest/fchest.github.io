@@ -71,7 +71,7 @@ Conference Papers
   Qinke Ni; Hongyu Zhang; **Cunhang Fan#**; Shengbing Pei; Chang Zhou; Zhao Lv, DBPNet: Dual-Branch Parallel Network with Temporal-Frequency Fusion for Auditory Attention Detection. International Joint Conference on Artificial Intelligence (IJCAI 2024). (Corresponding author)[code]( https://github.com/fchest/DBPNet)
 * published in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, 2022 **(语音领域顶级会议，CCF B)**
 
-  **Cunhang Fan**, Zhao Lv, Shengbing Pei, Mingyue Niu, Csenet: Complex Squeeze-and-Excitation Network for Speech Depression Level Prediction, 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, 2022, pp. 546-550.[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9746011)[code](https://github.com/fchest/CSENet)
+  **Cunhang Fan**, Zhao Lv, Shengbing Pei, Mingyue Niu, Csenet: Complex Squeeze-and-Excitation Network for Speech Depression Level Prediction, 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, 2022, pp. 546-550.[paper](https://github.com/fchest/fchest.github.io/blob/master/pub/csenet.pdf)[code](https://github.com/fchest/CSENet)
 * published in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, 2023  **(语音领域顶级会议，CCF B)**
 
   Jun Xue, **Cunhang Fan#**, Jiangyan Yi, Chenglong Wang, Zhengqi Wen, Dan Zhang and Zhao Lv, LEARNING FROM YOURSELF: A SELF-DISTILLATION METHOD FOR FAKE SPEECH DETECTION, 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, 2023, pp. 1-5.(Corresponding author)[paper](https://arxiv.org/pdf/2303.01211.pdf)
@@ -84,10 +84,10 @@ Conference Papers
 
 * published in the 20th Annual Conference of the International Speech Communication Association (INTERSPEECH 2019)  **(语音领域顶级会议，CCF C)**
 
-  **Cunhang Fan**, Bin Liu, Jianhua Tao, Jiangyan Yi, Zhengqi Wen, Discriminative Learning for Monaural Speech Separation Using Deep Embedding Features, the 20th Annual Conference of the International Speech Communication Association (INTERSPEECH 2019), Graz, 2019, 4599-4604.[paper](https://fchest.github.io/pub/interspeech2019.pdf)
+  **Cunhang Fan**, Bin Liu, Jianhua Tao, Jiangyan Yi, Zhengqi Wen, Discriminative Learning for Monaural Speech Separation Using Deep Embedding Features, the 20th Annual Conference of the International Speech Communication Association (INTERSPEECH 2019), Graz, 2019, 4599-4604.[paper](https://arxiv.org/pdf/1907.09884.pdf)
 * published in  the 21th Annual Conference of the International Speech Communication Association (INTERSPEECH 2020)  **(语音领域顶级会议，CCF C)**
 
-  **Cunhang Fan**, Jianhua Tao, Bin Liu, Jiangyan Yi, Zhengqi Wen, Gated Recurrent Fusion of Spatial and Spectral Features for Multi-channel Speech Separation with Deep Embedding Representations, the 21th Annual Conference of the International Speech Communication Association (INTERSPEECH 2020), Shanghai, 2020, 3321-3325.[paper](https://fchest.github.io/pub/interspeech2020.pdf)
+  **Cunhang Fan**, Jianhua Tao, Bin Liu, Jiangyan Yi, Zhengqi Wen, Gated Recurrent Fusion of Spatial and Spectral Features for Multi-channel Speech Separation with Deep Embedding Representations, the 21th Annual Conference of the International Speech Communication Association (INTERSPEECH 2020), Shanghai, 2020, 3321-3325.[paper](http://www.interspeech2020.org/uploadfile/pdf/Wed-3-8-5.pdf)
 * published in  the 21th Annual Conference of the International Speech Communication Association (INTERSPEECH 2020)  **(语音领域顶级会议，CCF C)**
 
   **Cunhang Fan**, Jianhua Tao, Bin Liu, Jiangyan Yi, Zhengqi Wen, Joint Training for Simultaneous Speech Denoising and Dereverberation with Deep Embedding Representations, the 21th Annual Conference of the International Speech Communication Association (INTERSPEECH 2020), Shanghai, 2020, 4536-4540.[paper](https://fchest.github.io/pub/interspeech20201.pdf)
