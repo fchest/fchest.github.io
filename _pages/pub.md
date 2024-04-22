@@ -52,7 +52,7 @@ Journal Papers
   Guofeng Yi; **Cunhang Fan#**; Kang Zhu; Zhao Lv; Shan Liang; Zhengqi Wen; Guanxiong Pei; Taihao Li; Jianhua Tao, VLP2MSA: Expanding vision-language pre-training to multimodal sentiment analysis, Knowledge-Based Systems, 2024, 283: 111136.(Corresponding author)[paper](https://www.sciencedirect.com/science/article/pii/S0950705123008869)
 * published in Applied Acoustics, 2022 **(中科院2区）**
 
-  **Cunhang Fan**; Hongmei Zhang; Jiangyan Yi; Zhao Lv; Jianhua Tao; et al, SpecMNet: Spectrum mend network for monaural speech enhancement, Applied Acoustics, 2022, 194: 108792.[paper](https://www.sciencedirect.com/science/article/pii/S0003682X22001669)
+  **Cunhang Fan**; Hongmei Zhang; Jiangyan Yi; Zhao Lv; Jianhua Tao; et al, SpecMNet: Spectrum mend network for monaural speech enhancement, Applied Acoustics, 2022, 194: 108792.[paper](https://fchest.github.io/pub/AA.pdf)
 * published in Applied Acoustics, 2023  **(中科院2区）**
 
   **Cunhang Fan**; Mingming Ding; Jiangyan Yi; Jinpeng Li; Zhao Lv, Two-stage deep spectrum fusion for noise-robust end-to-end speech recognition, Applied Acoustics, 2023,212: 109547.[paper](https://www.sciencedirect.com/science/article/pii/S0003682X23003456)
