@@ -30,6 +30,8 @@ Journal Papers
 * pulished in IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020 **(语音领域顶级期刊,CCF B)**
 
   **Cunhang Fan**; Jianhua Tao; Bin Liu; Jiangyan Yi; Zhengqi Wen; Xuefei Liu, End-to-End Post-filter for Speech Separation with Deep Attention Fusion Features, IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020, 28:1303-1314.[paper](https://www.researchgate.net/profile/Jianhua-Tao/publication/340068475_End-to-End_Post-Filter_for_Speech_Separation_With_Deep_Attention_Fusion_Features/links/6408938ab1704f343fb486ae/End-to-End-Post-Filter-for-Speech-Separation-With-Deep-Attention-Fusion-Features.pdf)
+  
+  
 * published in IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2021 **(语音领域顶级期刊,CCF B)**
 
   **Cunhang Fan**; Jiangyan Yi; Jianhua Tao; Zhengkun Tian; Bin Liu; Zhengqi Wen, Gated Recurrent Fusion with Joint Training Framework for Robust End-to-End Speech Recognition, IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2021, 29:198-209.[paper](https://arxiv.org/pdf/2011.04249.pdf)
