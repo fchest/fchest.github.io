@@ -29,10 +29,10 @@ Journal Papers
    **Cunhang Fan**; Mingming Ding; Jianhua Tao; Ruibo Fu; Jiangyan Yi; Zhengqi Wen; Zhao Lv, Dual-Branch Knowledge Distillation for Noise-Robust Synthetic Speech Detection. IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024.[paper](https://arxiv.org/pdf/2310.08869.pdf) [code](https://github.com/fchest/DKDSSD)
 * pulished in IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020 **(语音领域顶级期刊,CCF B)**
 
-  **Cunhang Fan**; Jianhua Tao; Bin Liu; Jiangyan Yi; Zhengqi Wen; Xuefei Liu, End-to-End Post-filter for Speech Separation with Deep Attention Fusion Features, IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020, 28:1303-1314.[paper](https://fchest.github.io/pub/Trans1.pdf)
+  **Cunhang Fan**; Jianhua Tao; Bin Liu; Jiangyan Yi; Zhengqi Wen; Xuefei Liu, End-to-End Post-filter for Speech Separation with Deep Attention Fusion Features, IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020, 28:1303-1314.[paper](https://www.researchgate.net/profile/Jianhua-Tao/publication/340068475_End-to-End_Post-Filter_for_Speech_Separation_With_Deep_Attention_Fusion_Features/links/6408938ab1704f343fb486ae/End-to-End-Post-Filter-for-Speech-Separation-With-Deep-Attention-Fusion-Features.pdf)
 * published in IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2021 **(语音领域顶级期刊,CCF B)**
 
-  **Cunhang Fan**; Jiangyan Yi; Jianhua Tao; Zhengkun Tian; Bin Liu; Zhengqi Wen, Gated Recurrent Fusion with Joint Training Framework for Robust End-to-End Speech Recognition, IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2021, 29:198-209.[paper](https://fchest.github.io/pub/Trans2.pdf)
+  **Cunhang Fan**; Jiangyan Yi; Jianhua Tao; Zhengkun Tian; Bin Liu; Zhengqi Wen, Gated Recurrent Fusion with Joint Training Framework for Robust End-to-End Speech Recognition, IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2021, 29:198-209.[paper](https://arxiv.org/pdf/2011.04249.pdf)
 * published in Advanced Engineering Informatics, 2024 **(中科院一区top，CCF B)**
 
   **Cunhang Fan**; Jinqin Wang; Wei Huang; Xiaoke Yang; Guangxiong Pei; Taihao Li; Zhao Lv. Light-weight residual convolution-based capsule network for EEG emotion recognition. Advanced Engineering Informatics, 2024, Volume 61, 102522.[paper](https://www.sciencedirect.com/science/article/pii/S1474034624001708)[code](https://github.com/fchest/LResCapsule)
@@ -41,16 +41,16 @@ Journal Papers
   **Cunhang Fan**; Jun Xue; Jianhua Tao; Jiangyan Yi; Chenglong Wang; Chengshi Zheng; Zhao Lv, Spatial Reconstructed Local Attention Res2Net with F0 Subband for Fake Speech Detection. Neural Networks, 2024, Volume 175, 106320.[paper](https://arxiv.org/pdf/2308.09944.pdf)[code](https://github.com/JunXue-tech/SRLARes2NetF0Subband)
 * published in Neural Networks, 2023  **（中科院一区top，CCF B）**
 
-  **Cunhang Fan**; Hongmei Zhang; Andong Li; Wang Xiang; Chengshi Zheng; Zhao Lv; Xiaopei Wu, CompNet: Complementary network for single-channel speech enhancement, Neural Networks, 2023, 168:508-517.[paper](https://fchest.github.io/pub/neural-networks-compnet-se.pdf)[code](https://github.com/fchest/CompNet)
+  **Cunhang Fan**; Hongmei Zhang; Andong Li; Wang Xiang; Chengshi Zheng; Zhao Lv; Xiaopei Wu, CompNet: Complementary network for single-channel speech enhancement, Neural Networks, 2023, 168:508-517.[paper](https://www.sciencedirect.com/science/article/pii/S089360802300535X)[code](https://github.com/fchest/CompNet)
 * published in Speech Communication, 2023 **(语音领域top-2期刊，CCF B)**
 
-  **Cunhang Fan**; Jun Xue; Shunbo Dong; Mingming Ding; Jiangyan Yi; Jinpeng Li; Zhao Lv, Subband Fusion of Complex Spectrogram for Fake Speech Detection, Speech Communication, 2023, 155: 102988.[paper](https://fchest.github.io/pub/speech-communication-spoof.pdf)
+  **Cunhang Fan**; Jun Xue; Shunbo Dong; Mingming Ding; Jiangyan Yi; Jinpeng Li; Zhao Lv, Subband Fusion of Complex Spectrogram for Fake Speech Detection, Speech Communication, 2023, 155: 102988.[paper](https://www.sciencedirect.com/science/article/pii/S016763932300122X)
 * published in  Knowledge-Based Systems, 2024 **(中科院一区top）**
 
   Guofeng Yi; **Cunhang Fan#**; Kang Zhu; Zhao Lv; Shan Liang; Zhengqi Wen; Guanxiong Pei; Taihao Li; Jianhua Tao, VLP2MSA: Expanding vision-language pre-training to multimodal sentiment analysis, Knowledge-Based Systems, 2024, 283: 111136.(Corresponding author)[paper](https://www.sciencedirect.com/science/article/pii/S0950705123008869)
 * published in Applied Acoustics, 2022 **(中科院2区）**
 
-  **Cunhang Fan**; Hongmei Zhang; Jiangyan Yi; Zhao Lv; Jianhua Tao; et al, SpecMNet: Spectrum mend network for monaural speech enhancement, Applied Acoustics, 2022, 194: 108792.[paper](https://fchest.github.io/pub/AA.pdf)
+  **Cunhang Fan**; Hongmei Zhang; Jiangyan Yi; Zhao Lv; Jianhua Tao; et al, SpecMNet: Spectrum mend network for monaural speech enhancement, Applied Acoustics, 2022, 194: 108792.[paper](https://www.sciencedirect.com/science/article/pii/S0003682X22001669)
 * published in Applied Acoustics, 2023  **(中科院2区）**
 
   **Cunhang Fan**; Mingming Ding; Jiangyan Yi; Jinpeng Li; Zhao Lv, Two-stage deep spectrum fusion for noise-robust end-to-end speech recognition, Applied Acoustics, 2023,212: 109547.[paper](https://www.sciencedirect.com/science/article/pii/S0003682X23003456)
