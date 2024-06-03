@@ -24,6 +24,9 @@ Chairs
 * Publication Chair, [IJCAI 2023 Workshop on Deepfake Audio Detection and Analysis (DADA 2023)](https://ceur-ws.org/Vol-3597/)
 * Program Chair, [1st International Workshop on Deepfake Detection for Audio Multimedia (DDAM 2022)](https://dl.acm.org/doi/abs/10.1145/3503161.3554779)
 
+Organizer
+======
+* [The First Chinese Auditory Attention Decoding Challenge](http://www.iscslp2024.com/ChineseAAD)
 
 Guest Editors
 ======
