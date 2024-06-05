@@ -17,6 +17,7 @@ My research interests include:
 
 News:
 ----
+* Three papers have been accepted by INTERSPEECH 2024**(CCF C)**
 * The paper "DBPNet: Dual-Branch Parallel Network with Temporal-Frequency Fusion for Auditory Attention Detection" has been accepted by International Joint Conference on Artificial Intelligence (IJCAI 2024)**(CCF A)**
 * The paper "Dual-Branch Knowledge Distillation for Noise-Robust Synthetic Speech Detection" has been accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing **（CAAI A，CCF B）**
 * The paper "Spatial Reconstructed Local Attention Res2Net with F0 Subband for Fake Speech Detection" has been accepted by Neural Networks **(中科院一区top，CCF B)**
