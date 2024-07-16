@@ -17,6 +17,7 @@ My research interests include:
 
 News:
 ----
+* The paper "Dynamic Ensemble Teacher-Student Distillation Framework for Light-weight Fake Audio Detection" has been accepted by IEEE Signal Processing Letters
 * The paper "Multi-level Contrastive Learning: Hierarchical Alleviation of Heterogeneity in Multimodal Sentiment Analysis" has been accepted by IEEE Transactions on Affective Computing **（CAAI A，CCF B）**
 * Three papers have been accepted by INTERSPEECH 2024**(CCF C)**
 * The paper "DBPNet: Dual-Branch Parallel Network with Temporal-Frequency Fusion for Auditory Attention Detection" has been accepted by International Joint Conference on Artificial Intelligence (IJCAI 2024)**(CCF A)**
