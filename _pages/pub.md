@@ -51,6 +51,8 @@ Journal Papers
 
 Conference Papers
 ======
+* **Cunhang Fan**; Jingjing Zhang; Hongyu Zhang; Wang Xiang; Jianhua Tao; Xinhui Li; Jiangyan Yi; Dianbo Sui; Zhao Lv, MSFNet: Multi-Scale Fusion Network for Brain-Controlled Speaker Extraction. ACM MM, 2024. **(CCF A)**
+
 * **Cunhang Fan**; Yujie Chen; Jun Xue; Yonghui Kong; Jianhua Tao; Zhao Lv. Progressive Distillation Based on Masked Generation Feature Method for Knowledge Graph Completion. Proceedings of the AAAI Conference on Artificial Intelligence, 2024, 38(8), 8380-8388.[paper](https://arxiv.org/pdf/2401.12997.pdf)  [code]( https://github.com/cyjie429/pmd) **(CCF A)**
   
 * Qinke Ni; Hongyu Zhang; **Cunhang Fan#**; Shengbing Pei; Chang Zhou; Zhao Lv, DBPNet: Dual-Branch Parallel Network with Temporal-Frequency Fusion for Auditory Attention Detection. International Joint Conference on Artificial Intelligence (IJCAI 2024). (Corresponding author)[paper](https://fchest.github.io/pub/DBPNet_Dual-Branch_Parallel_Network_with_Temporal-Frequency_Fusion.pdf)  [code]( https://github.com/fchest/DBPNet) **(CCF A)**
