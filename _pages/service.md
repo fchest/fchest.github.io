@@ -19,7 +19,8 @@ redirect_from:
 Chairs
 ======
 * Publication Chair, [IEEE SLT 2024](https://2024.ieeeslt.org/)
-* Publication Chair, [IALP 2024](https://www.asianlp.sg/conferences/ialp2024/web/call-for-papers/)
+* Publication Chair, [IEEE IALP 2024](https://www.asianlp.sg/conferences/ialp2024/web/call-for-papers/)
+* Local Arrangement Chairs, [BICS 2024](http://bics2024.dobell.me/comm)
 * Area Chair, [APSIPA ASC 2023](https://www.apsipa2023.org/)
 * Publication Chair, [IJCAI 2023 Workshop on Deepfake Audio Detection and Analysis (DADA 2023)](https://ceur-ws.org/Vol-3597/)
 * Program Chair, [1st International Workshop on Deepfake Detection for Audio Multimedia (DDAM 2022)](https://dl.acm.org/doi/abs/10.1145/3503161.3554779)
