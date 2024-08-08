@@ -13,7 +13,7 @@ My research interests include:
 
 * Speech Processing (Speech Enhancement and Separation, ASR, Fake Speech Detection)
 
-* Brain-Computer Interface (Auditory Attention Decoding, Emotion Recognition, Motor Imagery)
+* Brain-Computer Interface (Auditory Attention Decoding)
 
 News:
 ----
