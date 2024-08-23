@@ -30,8 +30,9 @@ Organizer
 ======
 * [The First Chinese Auditory Attention Decoding Challenge](http://www.iscslp2024.com/ChineseAAD)
 
-Guest Editors
+Editors
 ======
-* [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience)
-* [Applied Sciences](https://www.mdpi.com/journal/applsci)
-* [Big Data and Cognitive Computing](https://www2.mdpi.com/journal/BDCC)
+* [Metaverse, Youth Editorial Board](https://www.frontiersin.org/journals/neuroscience)
+* [Frontiers in Neuroscience, Gest Associate Editor](https://www.frontiersin.org/journals/neuroscience)
+* [Applied Sciences, Gest Editor](https://www.mdpi.com/journal/applsci)
+* [Big Data and Cognitive Computing, Gest Editor](https://www2.mdpi.com/journal/BDCC)
