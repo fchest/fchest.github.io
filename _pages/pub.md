@@ -46,7 +46,7 @@ Journal Papers
   
 * Guofeng Yi; **Cunhang Fan#**; Kang Zhu; Zhao Lv; Shan Liang; Zhengqi Wen; Guanxiong Pei; Taihao Li; Jianhua Tao, VLP2MSA: Expanding vision-language pre-training to multimodal sentiment analysis, Knowledge-Based Systems, 2024, 283: 111136.(Corresponding author)[paper](https://www.sciencedirect.com/science/article/pii/S0950705123008869) **(中科院一区top，通讯作者）**
 
-* Jun Xue; **Cunhang Fan#**; Jiangyan Yi; Jian Zhou; Zhao Lv, Dynamic Ensemble Teacher-Student Distillation Framework for Light-weight Fake Audio Detection, IEEE Signal Processing Letters, 2024, 31:2305-2309. **(IF:3.2，中科院大类二区，通讯作者)**
+* Jun Xue; **Cunhang Fan#**; Jiangyan Yi; Jian Zhou; Zhao Lv, Dynamic Ensemble Teacher-Student Distillation Framework for Light-weight Fake Audio Detection, IEEE Signal Processing Letters, 2024, 31:2305-2309. [paper](https://ieeexplore.ieee.org/abstract/document/10605999)**(IF:3.2，中科院大类二区，通讯作者)**
   
 * **Cunhang Fan**; Hongmei Zhang; Jiangyan Yi; Zhao Lv; Jianhua Tao; et al, SpecMNet: Spectrum mend network for monaural speech enhancement, Applied Acoustics, 2022, 194: 108792.[paper](https://fchest.github.io/pub/AA.pdf) **(中科院2区）**
   
