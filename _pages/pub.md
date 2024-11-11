@@ -24,7 +24,7 @@ The full list of my publications can be found on my [Google Scholar](https://sch
 Journal Papers
 ======
 
-* Nayu Liu; Kaiwen Wei; Yong Yang; Jianhua Tao; Xian Sun; Fanglong Yao; Hongfeng Yu; Li Jin; Zhao Lv; **Cunhang Fan**, Multimodal Cross-lingual Summarization for Videos: A Revisit in Knowledge Distillation Induced Triple-stage Training Method. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2024, DOI: 10.1109/TPAMI.2024.3447778.[paper](https://ieeexplore.ieee.org/document/10643687)  [code](https://github.com/fchest/DKDSSD) **(人工智能领域顶级期刊, CCF A, 唯一通讯作者)**
+* Nayu Liu; Kaiwen Wei; Yong Yang; Jianhua Tao; Xian Sun; Fanglong Yao; Hongfeng Yu; Li Jin; Zhao Lv; **Cunhang Fan**, Multimodal Cross-lingual Summarization for Videos: A Revisit in Knowledge Distillation Induced Triple-stage Training Method. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2024, 46:10697-10714. DOI: 10.1109/TPAMI.2024.3447778.[paper](https://ieeexplore.ieee.org/document/10643687)  [code](https://github.com/fchest/DKDSSD) **(人工智能领域顶级期刊, CCF A, 唯一通讯作者)**
 
 * **Cunhang Fan**; Mingming Ding; Jianhua Tao; Ruibo Fu; Jiangyan Yi; Zhengqi Wen; Zhao Lv, Dual-Branch Knowledge Distillation for Noise-Robust Synthetic Speech Detection. **IEEE/ACM Transactions on Audio, Speech, and Language Processing**, 2024, 32:2453-2466.[paper](https://ieeexplore.ieee.org/document/10506099/)  [code](https://github.com/fchest/DKDSSD) **(语音领域顶级期刊, CAAI A, CCF B)**
    
@@ -32,7 +32,7 @@ Journal Papers
   
 * **Cunhang Fan**; Jiangyan Yi; Jianhua Tao; Zhengkun Tian; Bin Liu; Zhengqi Wen, Gated Recurrent Fusion with Joint Training Framework for Robust End-to-End Speech Recognition, **IEEE/ACM Transactions on Audio, Speech, and Language Processing**, 2021, 29:198-209.[paper](https://arxiv.org/pdf/2011.04249.pdf) **(语音领域顶级期刊, CAAI A, CCF B)**
 
-* **Cunhang Fan**; Kang Zhu; Jianhua Tao; Guofeng Yi; Jun Xue; Zhao Lv, Multi-level Contrastive Learning: Hierarchical Alleviation of Heterogeneity in Multimodal Sentiment Analysis. **IEEE Transactions on Affective Computing**, 2024. [code](https://github.com/Zhudogsi/MCL-MCF) **(情感计算领域顶级期刊, CAAI A, CCF B)**
+* **Cunhang Fan**; Kang Zhu; Jianhua Tao; Guofeng Yi; Jun Xue; Zhao Lv, Multi-level Contrastive Learning: Hierarchical Alleviation of Heterogeneity in Multimodal Sentiment Analysis. **IEEE Transactions on Affective Computing**, 2024. [paper](https://ieeexplore.ieee.org/document/10587106) [code](https://github.com/Zhudogsi/MCL-MCF) **(情感计算领域顶级期刊, CAAI A, CCF B)**
   
 * **Cunhang Fan**; Jinqin Wang; Wei Huang; Xiaoke Yang; Guangxiong Pei; Taihao Li; Zhao Lv. Light-weight residual convolution-based capsule network for EEG emotion recognition. **Advanced Engineering Informatics**, 2024, Volume 61, 102522.[paper](https://www.sciencedirect.com/science/article/pii/S1474034624001708)  [code](https://github.com/fchest/LResCapsule) **(中科院一区top，CCF B)**
 
