@@ -69,7 +69,7 @@ Conference Papers
   
 * **Cunhang Fan**, Zhao Lv, Shengbing Pei, Mingyue Niu, Csenet: Complex Squeeze-and-Excitation Network for Speech Depression Level Prediction, 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, 2022, pp. 546-550.[paper](https://fchest.github.io/pub/csenet.pdf)  [code](https://github.com/fchest/CSENet) **(语音领域顶级会议，CCF B)**
   
-* Jun Xue, **Cunhang Fan#**, Jiangyan Yi, Chenglong Wang, Zhengqi Wen, Dan Zhang and Zhao Lv, LEARNING FROM YOURSELF: A SELF-DISTILLATION METHOD FOR FAKE SPEECH DETECTION, 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, 2023, pp. 1-5.(Corresponding author)[paper](https://arxiv.org/pdf/2303.01211.pdf) **(语音领域顶级会议，CCF B)**
+* Jun Xue, **Cunhang Fan#**, Jiangyan Yi, Chenglong Wang, Zhengqi Wen, Dan Zhang and Zhao Lv, LEARNING FROM YOURSELF: A SELF-DISTILLATION METHOD FOR FAKE SPEECH DETECTION, 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, 2023, pp. 1-5.(Corresponding author)[paper](https://arxiv.org/pdf/2303.01211.pdf) **(语音领域顶级会议，CCF B，通讯作者)**
   
 * Kang Zhu; **Cunhang Fan#**; Jianhua Tao; Jun Xue; Heng Xie; Xuefei Liu; Yongwei Li; Zhengqi Wen; Zhao Lv, DUAL-VIEW MULTIMODAL INTERACTION IN MULTIMODAL SENTIMENT ANALYSIS. IEEE International Conference on Multimedia and Expo, 2024, pp. 1-6.(Corresponding author) [paper](https://ieeexplore.ieee.org/document/10688078)  **(CCF B)**
   
