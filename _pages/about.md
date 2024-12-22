@@ -17,6 +17,8 @@ My research interests include:
 
 News:
 ----
+* The paper "Improved Feature Extraction Network for Neuro-Oriented Target Speaker Extraction" has been accepted by **ICASSP 2025 (CCF B)**
+* The paper "SSM2Mel: State Space Model to Reconstruct Mel Spectrogram from the EEG" has been accepted by **ICASSP 2025 (CCF B)**
 * The paper "BSDB-Net:Band-Split Dual-Branch Network with Selective State Spaces Mechanism for Monaural Speech Enhancement" has been accepted by **AAAI 2025 (CCF A)**
 * The paper "Region-Based Optimization in Continual Learning for Audio Deepfake Detection" has been accepted by **AAAI 2025 (CCF A)**
 * The paper "DARNet: Dual Attention Refinement Network with Spatiotemporal Construction for Auditory Attention Detection" has been accepted by NeurIPS 2024**(CCF A)**
