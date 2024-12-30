@@ -33,6 +33,7 @@ Organizer
 Editors
 ======
 * [Metaverse, Youth Editorial Board](https://www.frontiersin.org/journals/neuroscience)
+* 《科学画报》，人工智能专家委员会委员
 * [Frontiers in Neuroscience, Gest Associate Editor](https://www.frontiersin.org/journals/neuroscience)
 * [Applied Sciences, Gest Editor](https://www.mdpi.com/journal/applsci)
 * [Big Data and Cognitive Computing, Gest Editor](https://www2.mdpi.com/journal/BDCC)
