@@ -34,7 +34,7 @@ Journal Papers
 
 * **Cunhang Fan**; Kang Zhu; Jianhua Tao; Guofeng Yi; Jun Xue; Zhao Lv, Multi-level Contrastive Learning: Hierarchical Alleviation of Heterogeneity in Multimodal Sentiment Analysis. **IEEE Transactions on Affective Computing**, 2024. [paper](https://ieeexplore.ieee.org/document/10587106) [code](https://github.com/Zhudogsi/MCL-MCF) **(情感计算领域顶级期刊, CAAI A, CCF B)**
 
-* **Cunhang Fan**; Jiangyan Yi; Qinke Ni; Jingjing Zhang; Jianhua Tao; Jian Zhou; Jiangyan Yi; Zhao Lv; Xiaopei Wu, Seeing Helps Hearing: A Multi-modal Dataset and a Mamba-based Dual Branch Parallel Network for Auditory Attention Decoding, **Information Fusion**, 2025,  **(中科院一区top，CAAI A，CCF B)**
+* **Cunhang Fan**; Jiangyan Yi; Qinke Ni; Jingjing Zhang; Jianhua Tao; Jian Zhou; Jiangyan Yi; Zhao Lv; Xiaopei Wu, Seeing Helps Hearing: A Multi-modal Dataset and a Mamba-based Dual Branch Parallel Network for Auditory Attention Decoding, **Information Fusion**, 2025. **(中科院一区top，CAAI A，CCF B)**
   
 * **Cunhang Fan**; Jinqin Wang; Wei Huang; Xiaoke Yang; Guangxiong Pei; Taihao Li; Zhao Lv. Light-weight residual convolution-based capsule network for EEG emotion recognition. **Advanced Engineering Informatics**, 2024, Volume 61, 102522.[paper](https://www.sciencedirect.com/science/article/pii/S1474034624001708)  [code](https://github.com/fchest/LResCapsule) **(中科院一区top，CCF B)**
 
