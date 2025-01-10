@@ -32,7 +32,7 @@ Journal Papers
   
 * **Cunhang Fan**; Jiangyan Yi; Qinke Ni; Jingjing Zhang; Jianhua Tao; Jian Zhou; Jiangyan Yi; Zhao Lv; Xiaopei Wu, Seeing Helps Hearing: A Multi-modal Dataset and a Mamba-based Dual Branch Parallel Network for Auditory Attention Decoding, **Information Fusion**, 2025,  **(中科院一区top，CAAI A，CCF B)**
 
-  * **Cunhang Fan**; Hongyu Zhang; Jianhua Tao; Zhengkun Tian; Bin Liu; Zhengqi Wen, Gated Recurrent Fusion with Joint Training Framework for Robust End-to-End Speech Recognition, **IEEE/ACM Transactions on Audio, Speech, and Language Processing**, 2021, 29:198-209.[paper](https://arxiv.org/pdf/2011.04249.pdf) **(语音领域顶级期刊, CAAI A, CCF B)**
+* **Cunhang Fan**; Hongyu Zhang; Jianhua Tao; Zhengkun Tian; Bin Liu; Zhengqi Wen, Gated Recurrent Fusion with Joint Training Framework for Robust End-to-End Speech Recognition, **IEEE/ACM Transactions on Audio, Speech, and Language Processing**, 2021, 29:198-209.[paper](https://arxiv.org/pdf/2011.04249.pdf) **(语音领域顶级期刊, CAAI A, CCF B)**
 
 * **Cunhang Fan**; Kang Zhu; Jianhua Tao; Guofeng Yi; Jun Xue; Zhao Lv, Multi-level Contrastive Learning: Hierarchical Alleviation of Heterogeneity in Multimodal Sentiment Analysis. **IEEE Transactions on Affective Computing**, 2024. [paper](https://ieeexplore.ieee.org/document/10587106) [code](https://github.com/Zhudogsi/MCL-MCF) **(情感计算领域顶级期刊, CAAI A, CCF B)**
   
