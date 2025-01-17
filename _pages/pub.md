@@ -26,6 +26,8 @@ Journal Papers
 
 * Nayu Liu; Kaiwen Wei; Yong Yang; Jianhua Tao; Xian Sun; Fanglong Yao; Hongfeng Yu; Li Jin; Zhao Lv; **Cunhang Fan**, Multimodal Cross-lingual Summarization for Videos: A Revisit in Knowledge Distillation Induced Triple-stage Training Method. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2024, 46:10697-10714. DOI: 10.1109/TPAMI.2024.3447778.[paper](https://ieeexplore.ieee.org/document/10643687)  [code](https://github.com/fchest/DKDSSD) **(人工智能领域顶级期刊, CCF A, 唯一通讯作者)**
 
+* **Cunhang Fan**; Wang Xiang; Jianhua Tao; Jiangyan Yi; Zhao Lv, Cross-Modal Knowledge Distillation with Multi-Stage Adaptive Feature Fusion for Speech Separation. **IEEE/ACM Transactions on Audio, Speech, and Language Processing**, 2025.**(语音领域顶级期刊, CAAI A, CCF B)**
+
 * **Cunhang Fan**; Mingming Ding; Jianhua Tao; Ruibo Fu; Jiangyan Yi; Zhengqi Wen; Zhao Lv, Dual-Branch Knowledge Distillation for Noise-Robust Synthetic Speech Detection. **IEEE/ACM Transactions on Audio, Speech, and Language Processing**, 2024, 32:2453-2466.[paper](https://ieeexplore.ieee.org/document/10506099/)  [code](https://github.com/fchest/DKDSSD) **(语音领域顶级期刊, CAAI A, CCF B)**
    
 * **Cunhang Fan**; Jianhua Tao; Bin Liu; Jiangyan Yi; Zhengqi Wen; Xuefei Liu, End-to-End Post-filter for Speech Separation with Deep Attention Fusion Features, **IEEE/ACM Transactions on Audio, Speech, and Language Processing**, 2020, 28:1303-1314.[paper](https://www.researchgate.net/profile/Jianhua-Tao/publication/340068475_End-to-End_Post-Filter_for_Speech_Separation_With_Deep_Attention_Fusion_Features/links/6408938ab1704f343fb486ae/End-to-End-Post-Filter-for-Speech-Separation-With-Deep-Attention-Fusion-Features.pdf) **(语音领域顶级期刊, CAAI A, CCF B)**
