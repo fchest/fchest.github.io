@@ -17,6 +17,7 @@ My research interests include:
 
 News:
 ----
+* The paper "Cross-Modal Knowledge Distillation with Multi-Stage Adaptive Feature Fusion for Speech Separation" has been accepted by **IEEE/ACM Transactions on Audio, Speech, and Language Processing（CAAI A）**
 * The paper "Seeing Helps Hearing: A Multi-modal Dataset and a Mamba-based Dual Branch Parallel Network for Auditory Attention Decoding " has been accepted by **Information Fusion (中科院一区top，CAAI A，CCF B)**
 * The paper "Improved Feature Extraction Network for Neuro-Oriented Target Speaker Extraction" has been accepted by **ICASSP 2025 (CCF B)**
 * The paper "SSM2Mel: State Space Model to Reconstruct Mel Spectrogram from the EEG" has been accepted by **ICASSP 2025 (CCF B)**
@@ -28,12 +29,3 @@ News:
 * The paper "MSFNet: Multi-Scale Fusion Network for Brain-Controlled Speaker Extraction" has been accepted by **ACM Multimedia 2024 (CCF A)**
 * The paper "Dynamic Ensemble Teacher-Student Distillation Framework for Light-weight Fake Audio Detection" has been accepted by **IEEE Signal Processing Letters**
 * The paper "Multi-level Contrastive Learning: Hierarchical Alleviation of Heterogeneity in Multimodal Sentiment Analysis" has been accepted by **IEEE Transactions on Affective Computing（CAAI A，CCF B）**
-* Three papers have been accepted by **INTERSPEECH 2024(CCF C)**
-* The paper "DBPNet: Dual-Branch Parallel Network with Temporal-Frequency Fusion for Auditory Attention Detection" has been accepted by International Joint Conference on Artificial Intelligence **(IJCAI 2024) (CCF A)**
-* The paper "Dual-Branch Knowledge Distillation for Noise-Robust Synthetic Speech Detection" has been accepted by **IEEE/ACM Transactions on Audio, Speech, and Language Processing（CAAI A，CCF B）**
-* The paper "Spatial Reconstructed Local Attention Res2Net with F0 Subband for Fake Speech Detection" has been accepted by **Neural Networks (中科院一区top，CCF B)**
-* The paper "Light-weight residual convolution-based capsule network for EEG emotion recognition" has been accepted by **ADVANCED ENGINEERING INFORMATICS (中科院一区top）**
-* The paper "Progressive Distillation Based on Masked Generation Feature Method for Knowledge Graph Completion" has been accepted by **AAAI 2024 (CCF A)**
-* The paper "DUAL-VIEW MULTIMODAL INTERACTION IN MULTIMODAL SENTIMENT ANALYSIS" has been accepted by IEEE International Conference on Multimedia and Expo (ICME), 2024 **(CCF B)**
-* The paper "Bilateral Masking with prompt for Knowledge Graph Completion" has been accepted by Findings of 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL). 2024 **(CCF B)**
-
