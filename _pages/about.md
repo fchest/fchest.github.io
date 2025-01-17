@@ -25,7 +25,3 @@ News:
 * The paper "Region-Based Optimization in Continual Learning for Audio Deepfake Detection" has been accepted by **AAAI 2025 (CCF A)**
 * The paper "DARNet: Dual Attention Refinement Network with Spatiotemporal Construction for Auditory Attention Detection" has been accepted by **NeurIPS 2024 (CCF A)**
 * The paper "Multimodal Cross-lingual Summarization for Videos: A Revisit in Knowledge Distillation Induced Triple-stage Training Method" has been accepted by **IEEE TPAMI (IF: 20.8，中科院一区top，CCF A)**
-* The paper "DGSD: Dynamical Graph Self-Distillation for EEG-Based Auditory Spatial Attention Detection" has been accepted by **Neural Networks (中科院一区top，CCF B)**
-* The paper "MSFNet: Multi-Scale Fusion Network for Brain-Controlled Speaker Extraction" has been accepted by **ACM Multimedia 2024 (CCF A)**
-* The paper "Dynamic Ensemble Teacher-Student Distillation Framework for Light-weight Fake Audio Detection" has been accepted by **IEEE Signal Processing Letters**
-* The paper "Multi-level Contrastive Learning: Hierarchical Alleviation of Heterogeneity in Multimodal Sentiment Analysis" has been accepted by **IEEE Transactions on Affective Computing（CAAI A，CCF B）**
