@@ -26,7 +26,7 @@ Journal Papers
 
 * Nayu Liu; Kaiwen Wei; Yong Yang; Jianhua Tao; Xian Sun; Fanglong Yao; Hongfeng Yu; Li Jin; Zhao Lv; **Cunhang Fan**, Multimodal Cross-lingual Summarization for Videos: A Revisit in Knowledge Distillation Induced Triple-stage Training Method. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2024, 46:10697-10714. DOI: 10.1109/TPAMI.2024.3447778.[paper](https://ieeexplore.ieee.org/document/10643687)  [code](https://github.com/fchest/DKDSSD) **(人工智能领域顶级期刊, CCF A, 唯一通讯作者)**
 
-* **Cunhang Fan**; Wang Xiang; Jianhua Tao; Jiangyan Yi; Zhao Lv, Cross-Modal Knowledge Distillation with Multi-Stage Adaptive Feature Fusion for Speech Separation. **IEEE/ACM Transactions on Audio, Speech, and Language Processing**, 2025.**(语音领域顶级期刊, CAAI A, CCF B)**
+* **Cunhang Fan**; Wang Xiang; Jianhua Tao; Jiangyan Yi; Zhao Lv, Cross-Modal Knowledge Distillation with Multi-Stage Adaptive Feature Fusion for Speech Separation. **IEEE/ACM Transactions on Audio, Speech, and Language Processing**, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10856367) **(语音领域顶级期刊, CAAI A, CCF B)**
 
 * **Cunhang Fan**; Mingming Ding; Jianhua Tao; Ruibo Fu; Jiangyan Yi; Zhengqi Wen; Zhao Lv, Dual-Branch Knowledge Distillation for Noise-Robust Synthetic Speech Detection. **IEEE/ACM Transactions on Audio, Speech, and Language Processing**, 2024, 32:2453-2466.[paper](https://ieeexplore.ieee.org/document/10506099/)  [code](https://github.com/fchest/DKDSSD) **(语音领域顶级期刊, CAAI A, CCF B)**
    
@@ -61,7 +61,7 @@ Journal Papers
 
 Conference Papers
 ======
-* Sheng Yan; **Cunhang Fan**; Hongyu Zhang; Xiaoke Yang; Jianhua Tao; Zhao Lv, DARNet: Dual Attention Refinement Network with Spatiotemporal Construction for Auditory Attention Detection. **NeurIPS**, 2024. **(人工智能领域顶会, CCF A, 唯一通讯作者, 共同第一作者)**
+* Sheng Yan; **Cunhang Fan**; Hongyu Zhang; Xiaoke Yang; Jianhua Tao; Zhao Lv, DARNet: Dual Attention Refinement Network with Spatiotemporal Construction for Auditory Attention Detection. **NeurIPS**, 2024, 37: 31688-31707. [paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/382066d1460144ddcb041f32d05de053-Abstract-Conference.html)**(人工智能领域顶会, CCF A, 唯一通讯作者, 共同第一作者)**
 
 * **Cunhang Fan**; Jingjing Zhang; Hongyu Zhang; Wang Xiang; Jianhua Tao; Xinhui Li; Jiangyan Yi; Dianbo Sui; Zhao Lv, MSFNet: Multi-Scale Fusion Network for Brain-Controlled Speaker Extraction. **ACM MM**, 2024, 1652 - 1661. [paper](https://dl.acm.org/doi/10.1145/3664647.3681550) **(CCF A)**
 
@@ -78,12 +78,6 @@ Conference Papers
 * Kang Zhu; **Cunhang Fan#**; Jianhua Tao; Jun Xue; Heng Xie; Xuefei Liu; Yongwei Li; Zhengqi Wen; Zhao Lv, DUAL-VIEW MULTIMODAL INTERACTION IN MULTIMODAL SENTIMENT ANALYSIS. IEEE International Conference on Multimedia and Expo, 2024, pp. 1-6.(Corresponding author) [paper](https://ieeexplore.ieee.org/document/10688078)  **(CCF B)**
   
 * Yonghui Kong; **Cunhang Fan#**; Yujie Chen; Shuai Zhang; Zhao Lv; Jianhua Tao,Bilateral Masking with prompt for Knowledge Graph Completion.In: Findings of 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL). 2024, pp. 240–249.(Corresponding author) [paper](https://aclanthology.org/2024.findings-naacl.17/#) **(CCF B)**
-
-* **Cunhang Fan**, Bin Liu, Jianhua Tao, Jiangyan Yi, Zhengqi Wen, Discriminative Learning for Monaural Speech Separation Using Deep Embedding Features, the 20th Annual Conference of the International Speech Communication Association (INTERSPEECH 2019), Graz, 2019, 4599-4604.[paper](https://arxiv.org/pdf/1907.09884.pdf) **(语音领域顶级会议，CCF C)**
-  
-* **Cunhang Fan**, Jianhua Tao, Bin Liu, Jiangyan Yi, Zhengqi Wen, Gated Recurrent Fusion of Spatial and Spectral Features for Multi-channel Speech Separation with Deep Embedding Representations, the 21th Annual Conference of the International Speech Communication Association (INTERSPEECH 2020), Shanghai, 2020, 3321-3325.[paper](http://www.interspeech2020.org/uploadfile/pdf/Wed-3-8-5.pdf) **(语音领域顶级会议，CCF C)**
-  
-* **Cunhang Fan**, Jianhua Tao, Bin Liu, Jiangyan Yi, Zhengqi Wen, Joint Training for Simultaneous Speech Denoising and Dereverberation with Deep Embedding Representations, the 21th Annual Conference of the International Speech Communication Association (INTERSPEECH 2020), Shanghai, 2020, 4536-4540.[paper](https://fchest.github.io/pub/interspeech20201.pdf) **(语音领域顶级会议，CCF C)**
 
 
  
