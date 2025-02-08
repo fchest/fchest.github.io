@@ -79,7 +79,7 @@ Conference Papers
   
 * Yonghui Kong; **Cunhang Fan#**; Yujie Chen; Shuai Zhang; Zhao Lv; Jianhua Tao,Bilateral Masking with prompt for Knowledge Graph Completion.In: Findings of 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL). 2024, pp. 240–249.(Corresponding author) [paper](https://aclanthology.org/2024.findings-naacl.17/#) **(CCF B)**
 
-* **Cunhang Fan#**; Youdian Gao; Zexu Pan; Jingjing Zhang; Hongyu Zhang; Jie Zhang; Zhao Lv, Improved Feature Extraction Network for Neuro-Oriented Target Speaker Extraction, 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025. **(语音领域顶级会议，CCF B)**
+* **Cunhang Fan**; Youdian Gao; Zexu Pan; Jingjing Zhang; Hongyu Zhang; Jie Zhang; Zhao Lv, Improved Feature Extraction Network for Neuro-Oriented Target Speaker Extraction, 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025. **(语音领域顶级会议，CCF B)**
 
 * **Cunhang Fan**; Sheng Zhang; Jingjing Zhang; Zexu Pan; Zhao Lv, SSM2Mel: State Space Model to Reconstruct Mel Spectrogram from the EEG, 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025. **(语音领域顶级会议，CCF B)**
 
