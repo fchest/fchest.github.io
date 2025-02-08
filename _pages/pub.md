@@ -67,7 +67,7 @@ Conference Papers
 
 * **Cunhang Fan**; Enrui Liu; Andong Li; Jianhua Tao; Jian Zhou; Jiahao Li; Chengshi Zheng; Zhao Lv. BSDB-Net:Band-Split Dual-Branch Network with Selective State Spaces Mechanism for Monaural Speech Enhancement. **Proceedings of the AAAI Conference on Artificial Intelligence**, 2025. **(CCF A)**
 
-* **Cunhang Fan**; Yujie Chen; Jun Xue; Yonghui Kong; Jianhua Tao; Zhao Lv. Progressive Distillation Based on Masked Generation Feature Method for Knowledge Graph Completion. **Proceedings of the AAAI Conference on Artificial Intelligence**, 2024, 38(8), 8380-8388.[paper](https://arxiv.org/pdf/2401.12997.pdf)  [code]( https://github.com/cyjie429/pmd) **(CCF A)**
+* **Cunhang Fan**; Yujie Chen; Jun Xue; Yonghui Kong; Jianhua Tao; Zhao Lv. Progressive Distillation Based on Masked Generation Feature Method for Knowledge Graph Completion. **Proceedings of the AAAI Conference on Artificial Intelligence**, 2024, 38(8), 8380-8388.[paper](https://arxiv.org/pdf/2401.12997.pdf)  [code]( https://github.com/cyjie429/pmd) **(人工智能领域顶会, CCF A, 共同通讯作者, 共同第一作者)**
   
 * Qinke Ni; Hongyu Zhang; **Cunhang Fan#**; Shengbing Pei; Chang Zhou; Zhao Lv, DBPNet: Dual-Branch Parallel Network with Temporal-Frequency Fusion for Auditory Attention Detection. **International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju, 2024:3115-3123. (Corresponding author)[paper](https://www.ijcai.org/proceedings/2024/0345.pdf)  [code]( https://github.com/fchest/DBPNet) **(CCF A)**
   
