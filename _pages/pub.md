@@ -51,12 +51,6 @@ Journal Papers
 * Guofeng Yi; **Cunhang Fan#**; Kang Zhu; Zhao Lv; Shan Liang; Zhengqi Wen; Guanxiong Pei; Taihao Li; Jianhua Tao, VLP2MSA: Expanding vision-language pre-training to multimodal sentiment analysis, Knowledge-Based Systems, 2024, 283: 111136.(Corresponding author)[paper](https://www.sciencedirect.com/science/article/pii/S0950705123008869) **(中科院一区top，通讯作者）**
 
 * Jun Xue; **Cunhang Fan#**; Jiangyan Yi; Jian Zhou; Zhao Lv, Dynamic Ensemble Teacher-Student Distillation Framework for Light-weight Fake Audio Detection, IEEE Signal Processing Letters, 2024, 31:2305-2309. [paper](https://ieeexplore.ieee.org/abstract/document/10605999)**(IF:3.2，中科院大类二区，通讯作者)**
-  
-* **Cunhang Fan**; Hongmei Zhang; Jiangyan Yi; Zhao Lv; Jianhua Tao; et al, SpecMNet: Spectrum mend network for monaural speech enhancement, Applied Acoustics, 2022, 194: 108792.[paper](https://fchest.github.io/pub/AA.pdf) **(中科院2区）**
-  
-* **Cunhang Fan**; Mingming Ding; Jiangyan Yi; Jinpeng Li; Zhao Lv, Two-stage deep spectrum fusion for noise-robust end-to-end speech recognition, Applied Acoustics, 2023,212: 109547.[paper](https://www.sciencedirect.com/science/article/pii/S0003682X23003456) **(中科院2区）**
-  
-* **Cunhang Fan**; Heng Xie, Jianhua Tao, Yongwei Li, Guanxiong Pei, Taihao Li, Zhao Lv, ICaps-ResLSTM: Improved capsule network and residual LSTM for EEG emotion recognition, Biomedical Signal Processing and Control, 2024, 87: 105422.[paper](https://www.sciencedirect.com/science/article/pii/S1746809423008558) **(中科院2区）**
 
 
 Conference Papers
@@ -79,9 +73,9 @@ Conference Papers
   
 * Yonghui Kong; **Cunhang Fan#**; Yujie Chen; Shuai Zhang; Zhao Lv; Jianhua Tao,Bilateral Masking with prompt for Knowledge Graph Completion.In: Findings of 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL). 2024, pp. 240–249.(Corresponding author) [paper](https://aclanthology.org/2024.findings-naacl.17/#) **(CCF B, 共同通讯作者)**
 
-* **Cunhang Fan**; Youdian Gao; Zexu Pan; Jingjing Zhang; Hongyu Zhang; Jie Zhang; Zhao Lv, Improved Feature Extraction Network for Neuro-Oriented Target Speaker Extraction, 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025. **(语音领域顶级会议，CCF B)**
+* **Cunhang Fan**; Youdian Gao; Zexu Pan; Jingjing Zhang; Hongyu Zhang; Jie Zhang; Zhao Lv, Improved Feature Extraction Network for Neuro-Oriented Target Speaker Extraction, 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025.  [paper](https://ieeexplore.ieee.org/document/10888763)**(语音领域顶级会议，CCF B)**
 
-* **Cunhang Fan**; Sheng Zhang; Jingjing Zhang; Zexu Pan; Zhao Lv, SSM2Mel: State Space Model to Reconstruct Mel Spectrogram from the EEG, 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025. **(语音领域顶级会议，CCF B)**
+* **Cunhang Fan**; Sheng Zhang; Jingjing Zhang; Zexu Pan; Zhao Lv, SSM2Mel: State Space Model to Reconstruct Mel Spectrogram from the EEG, 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025. [paper](https://ieeexplore.ieee.org/document/10888785) **(语音领域顶级会议，CCF B)**
 
 
  
