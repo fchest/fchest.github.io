@@ -34,23 +34,23 @@ Journal Papers
 
 * **Cunhang Fan**; Jiangyan Yi; Jianhua Tao; Zhengkun Tian; Bin Liu; Zhengqi Wen, Gated Recurrent Fusion with Joint Training Framework for Robust End-to-End Speech Recognition, **IEEE/ACM Transactions on Audio, Speech, and Language Processing**, 2021, 29:198-209.[paper](https://arxiv.org/pdf/2011.04249.pdf) **(语音领域顶级期刊, CAAI A, CCF B)**
 
-* **Cunhang Fan**; Kang Zhu; Jianhua Tao; Guofeng Yi; Jun Xue; Zhao Lv, Multi-level Contrastive Learning: Hierarchical Alleviation of Heterogeneity in Multimodal Sentiment Analysis. **IEEE Transactions on Affective Computing**, 2024. [paper](https://ieeexplore.ieee.org/document/10587106) [code](https://github.com/Zhudogsi/MCL-MCF) **(情感计算领域顶级期刊, CAAI A, CCF B)**
+* **Cunhang Fan**; Kang Zhu; Jianhua Tao; Guofeng Yi; Jun Xue; Zhao Lv, Multi-level Contrastive Learning: Hierarchical Alleviation of Heterogeneity in Multimodal Sentiment Analysis. **IEEE Transactions on Affective Computing**, 2025, 16:207-222. [paper](https://ieeexplore.ieee.org/document/10587106) [code](https://github.com/Zhudogsi/MCL-MCF) **(情感计算领域顶级期刊, CAAI A, CCF B)**
 
 * **Cunhang Fan**; Hongyu Zhang; Qinke Ni; Jingjing Zhang; Jianhua Tao; Jian Zhou; Jiangyan Yi; Zhao Lv; Xiaopei Wu, Seeing Helps Hearing: A Multi-modal Dataset and a Mamba-based Dual Branch Parallel Network for Auditory Attention Decoding, **Information Fusion**, 2025, Volume 118, 102946. [paper](https://www.sciencedirect.com/science/article/pii/S1566253525000193) **(中科院一区top，CAAI A，CCF B)**
   
 * **Cunhang Fan**; Jinqin Wang; Wei Huang; Xiaoke Yang; Guangxiong Pei; Taihao Li; Zhao Lv. Light-weight residual convolution-based capsule network for EEG emotion recognition. **Advanced Engineering Informatics**, 2024, Volume 61, 102522.[paper](https://www.sciencedirect.com/science/article/pii/S1474034624001708)  [code](https://github.com/fchest/LResCapsule) **(中科院一区top，CCF B)**
 
-* **Cunhang Fan**; Hongyu Zhang; Wei Huang; Jun Xue; Jianhua Tao; Jiangyan Yi; Zhao Lv; Xiaopei Wu, DGSD: Dynamical graph self-distillation for EEG-based auditory spatial attention detection, Neural Networks, 2024, Volume 179, 106580. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608024005045) **(中科院一区top，CCF B)**
+* **Cunhang Fan**; Hongyu Zhang; Wei Huang; Jun Xue; Jianhua Tao; Jiangyan Yi; Zhao Lv; Xiaopei Wu, DGSD: Dynamical graph self-distillation for EEG-based auditory spatial attention detection, **Neural Networks**, 2024, Volume 179, 106580. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608024005045) **(中科院二区top，CCF B)**
   
-* **Cunhang Fan**; Jun Xue; Jianhua Tao; Jiangyan Yi; Chenglong Wang; Chengshi Zheng; Zhao Lv, Spatial Reconstructed Local Attention Res2Net with F0 Subband for Fake Speech Detection. Neural Networks, 2024, Volume 175, 106320.[paper](https://arxiv.org/pdf/2308.09944.pdf)  [code](https://github.com/JunXue-tech/SRLARes2NetF0Subband) **（中科院一区top，CCF B）**
+* **Cunhang Fan**; Jun Xue; Jianhua Tao; Jiangyan Yi; Chenglong Wang; Chengshi Zheng; Zhao Lv, Spatial Reconstructed Local Attention Res2Net with F0 Subband for Fake Speech Detection. **Neural Networks**, 2024, Volume 175, 106320.[paper](https://arxiv.org/pdf/2308.09944.pdf)  [code](https://github.com/JunXue-tech/SRLARes2NetF0Subband) **（中科院二区top，CCF B）**
   
-* **Cunhang Fan**; Hongmei Zhang; Andong Li; Wang Xiang; Chengshi Zheng; Zhao Lv; Xiaopei Wu, CompNet: Complementary network for single-channel speech enhancement, Neural Networks, 2023, 168:508-517.[paper](https://fchest.github.io/pub/neural-networks-compnet-se.pdf)  [code](https://github.com/fchest/CompNet) **（中科院一区top，CCF B）**
+* **Cunhang Fan**; Hongmei Zhang; Andong Li; Wang Xiang; Chengshi Zheng; Zhao Lv; Xiaopei Wu, CompNet: Complementary network for single-channel speech enhancement, **Neural Networks**, 2023, 168:508-517.[paper](https://fchest.github.io/pub/neural-networks-compnet-se.pdf)  [code](https://github.com/fchest/CompNet) **（中科院二区top，CCF B）**
   
-* **Cunhang Fan**; Jun Xue; Shunbo Dong; Mingming Ding; Jiangyan Yi; Jinpeng Li; Zhao Lv, Subband Fusion of Complex Spectrogram for Fake Speech Detection, Speech Communication, 2023, 155: 102988.[paper](https://www.sciencedirect.com/science/article/pii/S016763932300122X) **(语音领域top-2期刊，CCF B)**
+* **Cunhang Fan**; Jun Xue; Shunbo Dong; Mingming Ding; Jiangyan Yi; Jinpeng Li; Zhao Lv, Subband Fusion of Complex Spectrogram for Fake Speech Detection, **Speech Communication**, 2023, 155: 102988.[paper](https://www.sciencedirect.com/science/article/pii/S016763932300122X) **(语音领域top-2期刊，CCF B)**
   
-* Guofeng Yi; **Cunhang Fan#**; Kang Zhu; Zhao Lv; Shan Liang; Zhengqi Wen; Guanxiong Pei; Taihao Li; Jianhua Tao, VLP2MSA: Expanding vision-language pre-training to multimodal sentiment analysis, Knowledge-Based Systems, 2024, 283: 111136.(Corresponding author)[paper](https://www.sciencedirect.com/science/article/pii/S0950705123008869) **(中科院一区top，通讯作者）**
+* Guofeng Yi; **Cunhang Fan#**; Kang Zhu; Zhao Lv; Shan Liang; Zhengqi Wen; Guanxiong Pei; Taihao Li; Jianhua Tao, VLP2MSA: Expanding vision-language pre-training to multimodal sentiment analysis, **Knowledge-Based Systems**, 2024, 283: 111136.(Corresponding author)[paper](https://www.sciencedirect.com/science/article/pii/S0950705123008869) **(中科院一区top，通讯作者）**
 
-* Jun Xue; **Cunhang Fan#**; Jiangyan Yi; Jian Zhou; Zhao Lv, Dynamic Ensemble Teacher-Student Distillation Framework for Light-weight Fake Audio Detection, IEEE Signal Processing Letters, 2024, 31:2305-2309. [paper](https://ieeexplore.ieee.org/abstract/document/10605999)**(IF:3.2，中科院大类二区，通讯作者)**
+* Jun Xue; **Cunhang Fan#**; Jiangyan Yi; Jian Zhou; Zhao Lv, Dynamic Ensemble Teacher-Student Distillation Framework for Light-weight Fake Audio Detection, **IEEE Signal Processing Letters**, 2024, 31:2305-2309. [paper](https://ieeexplore.ieee.org/abstract/document/10605999)**(IF:3.2，通讯作者)**
 
 
 Conference Papers
