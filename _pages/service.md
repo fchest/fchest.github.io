@@ -19,6 +19,7 @@ redirect_from:
 Chairs
 ======
 * Session Chair, IJCAI 2024
+* Financial Chair, [ICASSP 2025 Satellite Event in Suzhou](https://www.ncmmsc.org.cn/2025ICASSP_China/zzwyh/)
 * Publication Chair, [IEEE SLT 2024](https://2024.ieeeslt.org/)
 * Publication Chair, [IEEE IALP 2024](https://www.asianlp.sg/conferences/ialp2024/web/call-for-papers/)
 * Local Arrangement Chairs, [BICS 2024](http://bics2024.dobell.me/comm)
