@@ -35,6 +35,11 @@ Standard Development
 ======
 * 国家标准，[人工智能 大模型 第1部分：通用要求](https://std.samr.gov.cn/gb/search/gbDetailed?id=0DF2C51A80213207E06397BE0A0AF1DA)，主要起草人，20231736-T-469（计划号）
 
+Members
+======
+* 中国青年科技工作者协会会员
+* 安徽省青年科技工作者协会会员
+
 Editors
 ======
 * Metaverse, Youth Editorial Board
