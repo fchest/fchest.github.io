@@ -61,7 +61,7 @@ Conference Papers
 
 * **Cunhang Fan**; Jian Zhou; Zexu Pan; Jingjing Zhang; Youdian Gao; Xiaoke Yang; Zhengqi Wen; Zhao Lv, M3ANet: Multi-scale and Multi-Modal Alignment Network for Brain-Assisted Target Speaker Extraction. **International Joint Conference on Artificial Intelligence (IJCAI 2025)**, 2025. **(CCF A)**
 
-* Lu Li; **Cunhang Fan**; Hongyu Zhang; Jingjing Zhang; Xiaoke Yang; Jian Zhou; Zhao Lv, MHANet: Multi-scale Hybrid Attention Network for Auditory Attention Detection. **International Joint Conference on Artificial Intelligence (IJCAI 2025)**, 2025. [paper](https://arxiv.org/pdf/2505.15364) **(CCF A)**
+* Lu Li; **Cunhang Fan**; Hongyu Zhang; Jingjing Zhang; Xiaoke Yang; Jian Zhou; Zhao Lv, MHANet: Multi-scale Hybrid Attention Network for Auditory Attention Detection. **International Joint Conference on Artificial Intelligence (IJCAI 2025)**, 2025. [paper](https://arxiv.org/pdf/2505.15364) **(CCF A, 唯一通讯作者)**
 
 * Sheng Yan; **Cunhang Fan**; Hongyu Zhang; Xiaoke Yang; Jianhua Tao; Zhao Lv, DARNet: Dual Attention Refinement Network with Spatiotemporal Construction for Auditory Attention Detection. **NeurIPS**, 2024, 37: 31688-31707. [paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/382066d1460144ddcb041f32d05de053-Abstract-Conference.html)**(人工智能领域顶会, CCF A, 唯一通讯作者, 共同第一作者)**
 
