@@ -36,6 +36,8 @@ Journal Papers
 
 * **Cunhang Fan**; Kang Zhu; Jianhua Tao; Guofeng Yi; Jun Xue; Zhao Lv, Multi-level Contrastive Learning: Hierarchical Alleviation of Heterogeneity in Multimodal Sentiment Analysis. **IEEE Transactions on Affective Computing**, 2025, 16:207-222. [paper](https://ieeexplore.ieee.org/document/10587106) [code](https://github.com/Zhudogsi/MCL-MCF) **(情感计算领域顶级期刊, CAAI A, CCF B)**
 
+* **Cunhang Fan**; Fan Yang , Jingjing Zhang , Jingpeng Sun , Hao Che , Su Hu , Zhengqi Wen , Zhao Lv, A Domain Adaptation Framework by Aligning the Inverse Gram Matrices for Cross-Subject Motor Imagery Classification. **IEEE Transactions on Consumer Electronics**, 2025.
+
 * **Cunhang Fan**; Hongyu Zhang; Qinke Ni; Jingjing Zhang; Jianhua Tao; Jian Zhou; Jiangyan Yi; Zhao Lv; Xiaopei Wu, Seeing Helps Hearing: A Multi-modal Dataset and a Mamba-based Dual Branch Parallel Network for Auditory Attention Decoding, **Information Fusion**, 2025, Volume 118, 102946. [paper](https://www.sciencedirect.com/science/article/pii/S1566253525000193) **(中科院一区top，CAAI A，CCF B)**
   
 * **Cunhang Fan**; Jinqin Wang; Wei Huang; Xiaoke Yang; Guangxiong Pei; Taihao Li; Zhao Lv. Light-weight residual convolution-based capsule network for EEG emotion recognition. **Advanced Engineering Informatics**, 2024, Volume 61, 102522.[paper](https://www.sciencedirect.com/science/article/pii/S1474034624001708)  [code](https://github.com/fchest/LResCapsule) **(中科院一区top，CCF B)**
@@ -55,6 +57,12 @@ Journal Papers
 
 Conference Papers
 ======
+* **Cunhang Fan**; Xiaoke Yang; Hongyu Zhang; Ying Chen; Lu Li; Jian Zhou; Zhao Lv, ListenNet: A Lightweight Spatio-Temporal Enhancement Nested Network for Auditory Attention Detection. **International Joint Conference on Artificial Intelligence (IJCAI 2025)**, 2025. [paper](https://arxiv.org/pdf/2505.10348) **(CCF A)**
+
+* **Cunhang Fan**; Jian Zhou; Zexu Pan; Jingjing Zhang; Youdian Gao; Xiaoke Yang; Zhengqi Wen; Zhao Lv, M3ANet: Multi-scale and Multi-Modal Alignment Network for Brain-Assisted Target Speaker Extraction. **International Joint Conference on Artificial Intelligence (IJCAI 2025)**, 2025. **(CCF A)**
+
+* Lu Li; **Cunhang Fan**; Hongyu Zhang; Jingjing Zhang; Xiaoke Yang; Jian Zhou; Zhao Lv, MHANet: Multi-scale Hybrid Attention Network for Auditory Attention Detection. **International Joint Conference on Artificial Intelligence (IJCAI 2025)**, 2025. [paper](https://arxiv.org/pdf/2505.15364) **(CCF A)**
+
 * Sheng Yan; **Cunhang Fan**; Hongyu Zhang; Xiaoke Yang; Jianhua Tao; Zhao Lv, DARNet: Dual Attention Refinement Network with Spatiotemporal Construction for Auditory Attention Detection. **NeurIPS**, 2024, 37: 31688-31707. [paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/382066d1460144ddcb041f32d05de053-Abstract-Conference.html)**(人工智能领域顶会, CCF A, 唯一通讯作者, 共同第一作者)**
 
 * **Cunhang Fan**; Jingjing Zhang; Hongyu Zhang; Wang Xiang; Jianhua Tao; Xinhui Li; Jiangyan Yi; Dianbo Sui; Zhao Lv, MSFNet: Multi-Scale Fusion Network for Brain-Controlled Speaker Extraction. **ACM MM**, 2024, 1652 - 1661. [paper](https://dl.acm.org/doi/10.1145/3664647.3681550) **(CCF A)**
