@@ -36,7 +36,7 @@ Journal Papers
 
 * **Cunhang Fan**; Kang Zhu; Jianhua Tao; Guofeng Yi; Jun Xue; Zhao Lv, Multi-level Contrastive Learning: Hierarchical Alleviation of Heterogeneity in Multimodal Sentiment Analysis. **IEEE Transactions on Affective Computing**, 2025, 16:207-222. [paper](https://ieeexplore.ieee.org/document/10587106) [code](https://github.com/Zhudogsi/MCL-MCF) **(情感计算领域顶级期刊, CAAI A, CCF B)**
 
-* **Cunhang Fan**; Fan Yang , Jingjing Zhang , Jingpeng Sun , Hao Che , Su Hu , Zhengqi Wen , Zhao Lv, A Domain Adaptation Framework by Aligning the Inverse Gram Matrices for Cross-Subject Motor Imagery Classification. **IEEE Transactions on Consumer Electronics**, 2025.
+* **Cunhang Fan**; Fan Yang, Jingjing Zhang, Jingpeng Sun, Hao Che, Su Hu, Zhengqi Wen, Zhao Lv, A Domain Adaptation Framework by Aligning the Inverse Gram Matrices for Cross-Subject Motor Imagery Classification. **IEEE Transactions on Consumer Electronics**, 2025.
 
 * **Cunhang Fan**; Hongyu Zhang; Qinke Ni; Jingjing Zhang; Jianhua Tao; Jian Zhou; Jiangyan Yi; Zhao Lv; Xiaopei Wu, Seeing Helps Hearing: A Multi-modal Dataset and a Mamba-based Dual Branch Parallel Network for Auditory Attention Decoding, **Information Fusion**, 2025, Volume 118, 102946. [paper](https://www.sciencedirect.com/science/article/pii/S1566253525000193) **(中科院一区top，CAAI A，CCF B)**
   
