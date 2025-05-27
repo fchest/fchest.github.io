@@ -17,7 +17,8 @@ My research interests include:
 
 News:
 ----
-* The paper "M3ANet: Multi-scale and Multi-Modal Alignment Network for Brain-Assisted Target Speaker Extraction" has been accepted by **IJCAI 2025（CCF A）**
+* The paper "A Domain Adaptation Framework by Aligning the Inverse Gram Matrices for Cross-Subject Motor Imagery Classification" has been accepted by **IEEE Transactions on Consumer Electronics**
+* * The paper "M3ANet: Multi-scale and Multi-Modal Alignment Network for Brain-Assisted Target Speaker Extraction" has been accepted by **IJCAI 2025（CCF A）**
 * The paper "MHANet: Multi-scale Hybrid Attention Network for Auditory Attention Detection" has been accepted by **IJCAI 2025（CCF A）**
 * The paper "ListenNet: A Lightweight Spatio-Temporal Enhancement Nested Network for Auditory Attention Detection" has been accepted by **IJCAI 2025（CCF A）**
 * The paper "ID-RemovalNet: Identity Removal Network for EEG Privacy Protection with Enhancing Decoding Tasks" has been accepted by **IJCAI 2025（CCF A）**
