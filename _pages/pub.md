@@ -29,14 +29,14 @@ Journal Papers
 * **Cunhang Fan**; Wang Xiang; Jianhua Tao; Jiangyan Yi; Zhao Lv, Cross-Modal Knowledge Distillation with Multi-Stage Adaptive Feature Fusion for Speech Separation. **IEEE Transactions on Audio, Speech, and Language Processing**, 2025, 33: 935-948. [paper](https://ieeexplore.ieee.org/abstract/document/10856367) **(语音领域顶级期刊, CAAI A, CCF B)**
 
 * **Cunhang Fan**; Mingming Ding; Jianhua Tao; Ruibo Fu; Jiangyan Yi; Zhengqi Wen; Zhao Lv, Dual-Branch Knowledge Distillation for Noise-Robust Synthetic Speech Detection. **IEEE/ACM Transactions on Audio, Speech, and Language Processing**, 2024, 32:2453-2466.[paper](https://ieeexplore.ieee.org/document/10506099/)  [code](https://github.com/fchest/DKDSSD) **(语音领域顶级期刊, CAAI A, CCF B)**
+
+* **Cunhang Fan**; Kang Zhu; Jianhua Tao; Guofeng Yi; Jun Xue; Zhao Lv, Multi-level Contrastive Learning: Hierarchical Alleviation of Heterogeneity in Multimodal Sentiment Analysis. **IEEE Transactions on Affective Computing**, 2025, 16:207-222. [paper](https://ieeexplore.ieee.org/document/10587106) [code](https://github.com/Zhudogsi/MCL-MCF) **(情感计算领域顶级期刊, CAAI A, CCF B)**
+
+* **Cunhang Fan**; Fan Yang, Jingjing Zhang, Jingpeng Sun, Hao Che, Su Hu, Zhengqi Wen, Zhao Lv, A Domain Adaptation Framework by Aligning the Inverse Gram Matrices for Cross-Subject Motor Imagery Classification. **IEEE Transactions on Consumer Electronics**, 2025. [paper](https://ieeexplore.ieee.org/document/11015936) 
    
 * **Cunhang Fan**; Jianhua Tao; Bin Liu; Jiangyan Yi; Zhengqi Wen; Xuefei Liu, End-to-End Post-filter for Speech Separation with Deep Attention Fusion Features, **IEEE/ACM Transactions on Audio, Speech, and Language Processing**, 2020, 28:1303-1314.[paper](https://www.researchgate.net/profile/Jianhua-Tao/publication/340068475_End-to-End_Post-Filter_for_Speech_Separation_With_Deep_Attention_Fusion_Features/links/6408938ab1704f343fb486ae/End-to-End-Post-Filter-for-Speech-Separation-With-Deep-Attention-Fusion-Features.pdf) **(语音领域顶级期刊, CAAI A, CCF B)**
 
 * **Cunhang Fan**; Jiangyan Yi; Jianhua Tao; Zhengkun Tian; Bin Liu; Zhengqi Wen, Gated Recurrent Fusion with Joint Training Framework for Robust End-to-End Speech Recognition, **IEEE/ACM Transactions on Audio, Speech, and Language Processing**, 2021, 29:198-209.[paper](https://arxiv.org/pdf/2011.04249.pdf) **(语音领域顶级期刊, CAAI A, CCF B)**
-
-* **Cunhang Fan**; Kang Zhu; Jianhua Tao; Guofeng Yi; Jun Xue; Zhao Lv, Multi-level Contrastive Learning: Hierarchical Alleviation of Heterogeneity in Multimodal Sentiment Analysis. **IEEE Transactions on Affective Computing**, 2025, 16:207-222. [paper](https://ieeexplore.ieee.org/document/10587106) [code](https://github.com/Zhudogsi/MCL-MCF) **(情感计算领域顶级期刊, CAAI A, CCF B)**
-
-* **Cunhang Fan**; Fan Yang, Jingjing Zhang, Jingpeng Sun, Hao Che, Su Hu, Zhengqi Wen, Zhao Lv, A Domain Adaptation Framework by Aligning the Inverse Gram Matrices for Cross-Subject Motor Imagery Classification. **IEEE Transactions on Consumer Electronics**, 2025.
 
 * **Cunhang Fan**; Hongyu Zhang; Qinke Ni; Jingjing Zhang; Jianhua Tao; Jian Zhou; Jiangyan Yi; Zhao Lv; Xiaopei Wu, Seeing Helps Hearing: A Multi-modal Dataset and a Mamba-based Dual Branch Parallel Network for Auditory Attention Decoding, **Information Fusion**, 2025, Volume 118, 102946. [paper](https://www.sciencedirect.com/science/article/pii/S1566253525000193) **(中科院一区top，CAAI A，CCF B)**
   
