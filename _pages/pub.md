@@ -38,7 +38,7 @@ Journal Papers
 
 * **Cunhang Fan**; Jiangyan Yi; Jianhua Tao; Zhengkun Tian; Bin Liu; Zhengqi Wen, Gated Recurrent Fusion with Joint Training Framework for Robust End-to-End Speech Recognition, **IEEE/ACM Transactions on Audio, Speech, and Language Processing**, 2021, 29:198-209.[paper](https://arxiv.org/pdf/2011.04249.pdf) **(语音领域顶级期刊, CAAI A, CCF B)**
 
-* **Cunhang Fan**; Hongyu Zhang; Qinke Ni; Jingjing Zhang; Jianhua Tao; Jian Zhou; Jiangyan Yi; Zhao Lv; Xiaopei Wu, Seeing Helps Hearing: A Multi-modal Dataset and a Mamba-based Dual Branch Parallel Network for Auditory Attention Decoding, **Information Fusion**, 2025, Volume 118, 102946. [paper](https://www.sciencedirect.com/science/article/pii/S1566253525000193) **(中科院一区top，CAAI A，CCF B)**
+* **Cunhang Fan**; Hongyu Zhang; Qinke Ni; Jingjing Zhang; Jianhua Tao; Jian Zhou; Jiangyan Yi; Zhao Lv; Xiaopei Wu, Seeing Helps Hearing: A Multi-modal Dataset and a Mamba-based Dual Branch Parallel Network for Auditory Attention Decoding, **Information Fusion**, 2025, Volume 118, 102946. [paper](https://www.sciencedirect.com/science/article/pii/S1566253525000193) **(中科院一区top，CAAI A)**
   
 * **Cunhang Fan**; Jinqin Wang; Wei Huang; Xiaoke Yang; Guangxiong Pei; Taihao Li; Zhao Lv. Light-weight residual convolution-based capsule network for EEG emotion recognition. **Advanced Engineering Informatics**, 2024, Volume 61, 102522.[paper](https://www.sciencedirect.com/science/article/pii/S1474034624001708)  [code](https://github.com/fchest/LResCapsule) **(中科院一区top，CCF B)**
 
