@@ -59,7 +59,7 @@ Conference Papers
 ======
 * **Cunhang Fan**; Xiaoke Yang; Hongyu Zhang; Ying Chen; Lu Li; Jian Zhou; Zhao Lv, ListenNet: A Lightweight Spatio-Temporal Enhancement Nested Network for Auditory Attention Detection. **International Joint Conference on Artificial Intelligence (IJCAI 2025)**, 2025. [paper](https://arxiv.org/pdf/2505.10348) **(CCF A)**
 
-* **Cunhang Fan**; Jian Zhou; Zexu Pan; Jingjing Zhang; Youdian Gao; Xiaoke Yang; Zhengqi Wen; Zhao Lv, M3ANet: Multi-scale and Multi-Modal Alignment Network for Brain-Assisted Target Speaker Extraction. **International Joint Conference on Artificial Intelligence (IJCAI 2025)**, 2025. **(CCF A)**
+* **Cunhang Fan**; Ying Chen; Jian Zhou; Zexu Pan; Jingjing Zhang; Youdian Gao; Xiaoke Yang; Zhengqi Wen; Zhao Lv, M3ANet: Multi-scale and Multi-Modal Alignment Network for Brain-Assisted Target Speaker Extraction. **International Joint Conference on Artificial Intelligence (IJCAI 2025)**, 2025. **(CCF A)**
 
 * Lu Li; **Cunhang Fan**; Hongyu Zhang; Jingjing Zhang; Xiaoke Yang; Jian Zhou; Zhao Lv, MHANet: Multi-scale Hybrid Attention Network for Auditory Attention Detection. **International Joint Conference on Artificial Intelligence (IJCAI 2025)**, 2025. [paper](https://arxiv.org/pdf/2505.15364) **(CCF A, 唯一通讯作者)**
 
