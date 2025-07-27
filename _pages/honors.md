@@ -25,6 +25,7 @@ redirect_from:
 * 2020 9th International Conference on Computing and Pattern Recognition (ICCPR 2020) Best Paper，2020.
 
 **Teaching（教学类）**
+* 中国电子学会电子信息教学成果二等奖，2025，排名1/10
 * 中国人工智能学会CAAI教学成果激励计划一类成果，2024，排名2/6
 * 安徽省教学成果二等奖，2024，排名10/12
 * “挑战杯”全国大学生课外学术科技作品竞赛 “黑科技”专项赛特等奖（星系级），第一指导老师，2023
