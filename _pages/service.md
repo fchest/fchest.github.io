@@ -32,6 +32,7 @@ Chairs
 Organizer
 ======
 * [The First Chinese Auditory Attention Decoding Challenge](http://www.iscslp2024.com/ChineseAAD)
+* [EEG-based Auditory Attention Decoding (EEG-AAD) ](https://fchest.github.io/icassp-aad/)
 
 Standard Development
 ======
