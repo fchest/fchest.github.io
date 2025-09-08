@@ -18,6 +18,7 @@ redirect_from:
 
 Chairs
 ======
+* Session Chair, IJCAI 2025
 * Session Chair, IJCAI 2024
 * Program Committee Member, IJCAI 2025 
 * Financial Chair, [ICASSP 2025 Satellite Event in Suzhou](https://www.ncmmsc.org.cn/2025ICASSP_China/zzwyh/)
