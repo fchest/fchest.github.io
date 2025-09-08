@@ -36,7 +36,8 @@ Organizer
 
 Standard Development
 ======
-* 国家标准，[人工智能 大模型 第1部分：通用要求](https://std.samr.gov.cn/gb/search/gbDetailed?id=0DF2C51A80213207E06397BE0A0AF1DA)，主要起草人，20231736-T-469（计划号）
+* 国家标准，[人工智能 大模型 第1部分：通用要求](https://std.samr.gov.cn/gb/search/gbDetailed?id=0DF2C51A80213207E06397BE0A0AF1DA)，主要起草人，GB/T 45288.1-2025
+* 团体标准，基于情感脑机接口的情绪评估系统技术要求，主要起草人，T/CITS 512-2025
 
 Members
 ======
