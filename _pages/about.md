@@ -17,6 +17,7 @@ My research interests include:
 
 News:
 ----
+* The paper "A Joint Training Framework for Noise-Robust Speech Recognition through Multi-Level Feature Fusion" has been accepted by **IEEE Transactions on Audio, Speech, and Language Processing（CAAI A）**
 * The paper "MF2Mel: A Dynamic Multiscale Fusion Network for EEG-Driven Mel Spectrogram Reconstruction" has been accepted by **ACM MM 2025（CCF A）**
 * The paper "DHGCN: Dual HyperGraph Convolutional Network for EEG-Based Auditory Attention Detection" has been accepted by **ACM MM 2025（CCF A）**
 * The paper "A Domain Adaptation Framework by Aligning the Inverse Gram Matrices for Cross-Subject Motor Imagery Classification" has been accepted by **IEEE Transactions on Consumer Electronics**
@@ -24,7 +25,7 @@ News:
 * The paper "MHANet: Multi-scale Hybrid Attention Network for Auditory Attention Detection" has been accepted by **IJCAI 2025（CCF A）**
 * The paper "ListenNet: A Lightweight Spatio-Temporal Enhancement Nested Network for Auditory Attention Detection" has been accepted by **IJCAI 2025（CCF A）**
 * The paper "ID-RemovalNet: Identity Removal Network for EEG Privacy Protection with Enhancing Decoding Tasks" has been accepted by **IJCAI 2025（CCF A）**
-* The paper "Cross-Modal Knowledge Distillation with Multi-Stage Adaptive Feature Fusion for Speech Separation" has been accepted by **IEEE/ACM Transactions on Audio, Speech, and Language Processing（CAAI A）**
+* The paper "Cross-Modal Knowledge Distillation with Multi-Stage Adaptive Feature Fusion for Speech Separation" has been accepted by **IEEE Transactions on Audio, Speech, and Language Processing（CAAI A）**
 * The paper "Seeing Helps Hearing: A Multi-modal Dataset and a Mamba-based Dual Branch Parallel Network for Auditory Attention Decoding " has been accepted by **Information Fusion (中科院一区top，CAAI A，CCF B)**
 * The paper "Improved Feature Extraction Network for Neuro-Oriented Target Speaker Extraction" has been accepted by **ICASSP 2025 (CCF B)**
 * The paper "SSM2Mel: State Space Model to Reconstruct Mel Spectrogram from the EEG" has been accepted by **ICASSP 2025 (CCF B)**
