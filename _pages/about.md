@@ -17,6 +17,7 @@ My research interests include:
 
 News:
 ----
+* The paper "Trainable EEG Interpolation and Structure-Sharing Dual-Path Encoders for Brain-Assisted Target Speaker Extraction" has been accepted by **AAAI 2026（CCF A）**
 * The paper "A Joint Training Framework for Noise-Robust Speech Recognition through Multi-Level Feature Fusion" has been accepted by **IEEE Transactions on Audio, Speech, and Language Processing（CAAI A）**
 * The paper "MF2Mel: A Dynamic Multiscale Fusion Network for EEG-Driven Mel Spectrogram Reconstruction" has been accepted by **ACM MM 2025（CCF A）**
 * The paper "DHGCN: Dual HyperGraph Convolutional Network for EEG-Based Auditory Attention Detection" has been accepted by **ACM MM 2025（CCF A）**
