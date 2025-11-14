@@ -18,6 +18,7 @@ redirect_from:
 
 Chairs
 ======
+* Session Chair, ACM MM 2025
 * Session Chair, IJCAI 2025
 * Session Chair, IJCAI 2024
 * Program Committee Member, IJCAI 2025 
