@@ -57,9 +57,9 @@ Journal Papers
 
 Conference Papers
 ======
-* **Cunhang Fan**; Sheng Zhang; Jingjing Zhang; Enrui Liu; Xinhui Li; Gangming Zhao; Zhao Lv, DMF2Mel: A Dynamic Multiscale Fusion Network for EEG-Driven Mel Spectrogram Reconstruction. **ACM International Conference on Multimedia (ACM MM)**, 2025. [paper](https://arxiv.org/pdf/2505.10348) **(CCF A)**
+* **Cunhang Fan**; Sheng Zhang; Jingjing Zhang; Enrui Liu; Xinhui Li; Gangming Zhao; Zhao Lv, DMF2Mel: A Dynamic Multiscale Fusion Network for EEG-Driven Mel Spectrogram Reconstruction. **ACM International Conference on Multimedia (ACM MM)**, 2025: 6977 - 6985. [paper](https://dl.acm.org/doi/10.1145/3746027.3755501) **(CCF A)**
 
-* Jian Zhou; Yingjie Xie; **Cunhang Fan**; Huabin Wang; Zhao Lv; Liang Tao, DHGCN: Dual HyperGraph Convolutional Network for EEG-Based Auditory Attention Detection. **ACM International Conference on Multimedia (ACM MM)**, 2025. [paper](https://arxiv.org/pdf/2505.10348) **(CCF A, 唯一通讯作者)**
+* Jian Zhou; Yingjie Xie; **Cunhang Fan**; Huabin Wang; Zhao Lv; Liang Tao, DHGCN: Dual HyperGraph Convolutional Network for EEG-Based Auditory Attention Detection. **ACM International Conference on Multimedia (ACM MM)**, 2025: 612-620. [paper](https://dl.acm.org/doi/abs/10.1145/3746027.3755579) **(CCF A, 唯一通讯作者)**
 
 * **Cunhang Fan**; Xiaoke Yang; Hongyu Zhang; Ying Chen; Lu Li; Jian Zhou; Zhao Lv, ListenNet: A Lightweight Spatio-Temporal Enhancement Nested Network for Auditory Attention Detection. **International Joint Conference on Artificial Intelligence (IJCAI 2025)**, 2025, 4137-4145. [paper](https://www.ijcai.org/proceedings/2025/461) **(CCF A)**
 
