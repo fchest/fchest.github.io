@@ -26,7 +26,7 @@ Journal Papers
 
 * Nayu Liu; Kaiwen Wei; Yong Yang; Jianhua Tao; Xian Sun; Fanglong Yao; Hongfeng Yu; Li Jin; Zhao Lv; **Cunhang Fan**, Multimodal Cross-lingual Summarization for Videos: A Revisit in Knowledge Distillation Induced Triple-stage Training Method. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2024, 46:10697-10714. DOI: 10.1109/TPAMI.2024.3447778.[paper](https://ieeexplore.ieee.org/document/10643687)  [code](https://github.com/fchest/DKDSSD) **(人工智能领域顶级期刊, CCF A, 唯一通讯作者)**
 
-* **Cunhang Fan**; Jiahao Li; Enrui Liu; Jiangyan Yi; Xinhui Li; Ruibo Fu; Zhao Lv, A Joint Training Framework for Noise-Robust Speech Recognition through Multi-Level Feature Fusion. **IEEE Transactions on Audio, Speech, and Language Processing**, 2025, 10.1109/TASLPRO.2025.3633058. [paper](https://ieeexplore.ieee.org/document/11249740) **(语音领域顶级期刊, CAAI A, CCF B)**
+* **Cunhang Fan**; Jiahao Li; Enrui Liu; Jiangyan Yi; Xinhui Li; Ruibo Fu; Zhao Lv, A Joint Training Framework for Noise-Robust Speech Recognition through Multi-Level Feature Fusion. **IEEE Transactions on Audio, Speech, and Language Processing**, 2025, 33: 4808 - 4820. [paper](https://ieeexplore.ieee.org/document/11249740) **(语音领域顶级期刊, CAAI A, CCF B)**
 
 * **Cunhang Fan**; Wang Xiang; Jianhua Tao; Jiangyan Yi; Zhao Lv, Cross-Modal Knowledge Distillation with Multi-Stage Adaptive Feature Fusion for Speech Separation. **IEEE Transactions on Audio, Speech, and Language Processing**, 2025, 33: 935-948. [paper](https://ieeexplore.ieee.org/abstract/document/10856367) **(语音领域顶级期刊, CAAI A, CCF B)**
 
