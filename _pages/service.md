@@ -47,6 +47,7 @@ Members
 
 Editors
 ======
+* Scientific Reports, Editorial Board
 * Metaverse, Youth Editorial Board
 * 《科学画报》，人工智能专家委员会委员
 * [Frontiers in Neuroscience, Gest Associate Editor](https://www.frontiersin.org/journals/neuroscience)
