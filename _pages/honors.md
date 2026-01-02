@@ -20,6 +20,7 @@ redirect_from:
 * 中国计算机学会语音对话与听觉专业委员会青年科技奖（全国共3人），2025
 * 安徽省计算机学会优秀青年科学家（全省共2人），2023
 <!--* 安徽省科技进步三等奖，2024，排名6/6-->
+* 环境音频深度伪造检测国际挑战赛双赛道冠军（ESDD）ICASSP 2026
 * The MuSe-Mimic 2023 Multimodal Sentiment Analysis Challenge Prize (国际多模态情感计算挑战赛第一名)，2023
 * 第十九届全国信号处理学术会议优秀论文奖，2019.
 * Outstanding Reviewer Recognition, ICASSP 2023, 2023
