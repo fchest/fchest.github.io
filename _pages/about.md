@@ -21,7 +21,7 @@ News:
 * The paper "A Joint Training Framework for Noise-Robust Speech Recognition through Multi-Level Feature Fusion" has been accepted by **IEEE Transactions on Audio, Speech, and Language Processing（CAAI A）**
 * The paper "MF2Mel: A Dynamic Multiscale Fusion Network for EEG-Driven Mel Spectrogram Reconstruction" has been accepted by **ACM MM 2025（CCF A）**
 * The paper "DHGCN: Dual HyperGraph Convolutional Network for EEG-Based Auditory Attention Detection" has been accepted by **ACM MM 2025（CCF A）**
-<--* The paper "A Domain Adaptation Framework by Aligning the Inverse Gram Matrices for Cross-Subject Motor Imagery Classification" has been accepted by **IEEE Transactions on Consumer Electronics**-->
+<!--* The paper "A Domain Adaptation Framework by Aligning the Inverse Gram Matrices for Cross-Subject Motor Imagery Classification" has been accepted by **IEEE Transactions on Consumer Electronics**-->
 * The paper "M3ANet: Multi-scale and Multi-Modal Alignment Network for Brain-Assisted Target Speaker Extraction" has been accepted by **IJCAI 2025（CCF A）**
 * The paper "MHANet: Multi-scale Hybrid Attention Network for Auditory Attention Detection" has been accepted by **IJCAI 2025（CCF A）**
 * The paper "ListenNet: A Lightweight Spatio-Temporal Enhancement Nested Network for Auditory Attention Detection" has been accepted by **IJCAI 2025（CCF A）**
