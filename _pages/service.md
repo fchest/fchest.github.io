@@ -48,6 +48,7 @@ Members
 
 Editors
 ======
+* IEEE Transactions on Audio, Speech and Language Processing, Associate Editor
 * Scientific Reports, Editorial Board
 * Metaverse, Youth Editorial Board
 * 《科学画报》，人工智能专家委员会委员
