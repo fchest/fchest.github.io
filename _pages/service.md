@@ -22,7 +22,7 @@ Chairs
 * Session Chair, IJCAI 2025
 * Session Chair, IJCAI 2024
 * Meta Reviewer, ICASSP 2026
-* Program Committee Member, IJCAI 2025 
+* Senior Program Committee Member, IJCAI 2026 
 * Financial Chair, [ICASSP 2025 Satellite Event in Suzhou](https://www.ncmmsc.org.cn/2025ICASSP_China/zzwyh/)
 * Publication Chair, [IEEE SLT 2024](https://2024.ieeeslt.org/)
 * Publication Chair, [IEEE IALP 2024](https://www.asianlp.sg/conferences/ialp2024/web/call-for-papers/)
