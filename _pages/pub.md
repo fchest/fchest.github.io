@@ -34,7 +34,7 @@ Journal Papers
 
 * **Cunhang Fan**; Kang Zhu; Jianhua Tao; Guofeng Yi; Jun Xue; Zhao Lv, Multi-level Contrastive Learning: Hierarchical Alleviation of Heterogeneity in Multimodal Sentiment Analysis. **IEEE Transactions on Affective Computing**, 2025, 16:207-222. [paper](https://ieeexplore.ieee.org/document/10587106) [code](https://github.com/Zhudogsi/MCL-MCF) **(情感计算领域顶级期刊, CAAI A, CCF B)**
 
-* **范存航**, 李骏凌, 张晶晶, 高佑典, 陈颖, 易江燕, 吕钊, 基于门控交叉注意力融合的神经导向说话人提取方法. **计算机研究与发展**, 2026. [paper](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202550467) **(CCF A)**
+* **范存航**; 李骏凌; 张晶晶; 高佑典; 陈颖; 易江燕; 吕钊, 基于门控交叉注意力融合的神经导向说话人提取方法. **计算机研究与发展**, 2026. [paper](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202550467) **(CCF A)**
 
 <!-- * **Cunhang Fan**; Fan Yang, Jingjing Zhang, Jingpeng Sun, Hao Che, Su Hu, Zhengqi Wen, Zhao Lv, A Domain Adaptation Framework by Aligning the Inverse Gram Matrices for Cross-Subject Motor Imagery Classification. **IEEE Transactions on Consumer Electronics**, 2025, 5390 - 5403. [paper](https://ieeexplore.ieee.org/document/11015936)  -->
    
