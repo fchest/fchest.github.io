@@ -34,6 +34,8 @@ Journal Papers
 
 * **Cunhang Fan**; Kang Zhu; Jianhua Tao; Guofeng Yi; Jun Xue; Zhao Lv, Multi-level Contrastive Learning: Hierarchical Alleviation of Heterogeneity in Multimodal Sentiment Analysis. **IEEE Transactions on Affective Computing**, 2025, 16:207-222. [paper](https://ieeexplore.ieee.org/document/10587106) [code](https://github.com/Zhudogsi/MCL-MCF) **(情感计算领域顶级期刊, CAAI A, CCF B)**
 
+* **范存航**, 李骏凌, 张晶晶, 高佑典, 陈颖, 易江燕, 吕钊, 基于门控交叉注意力融合的神经导向说话人提取方法. **计算机研究与发展**, 2026. [paper](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202550467) **(CCF A)**
+
 <!-- * **Cunhang Fan**; Fan Yang, Jingjing Zhang, Jingpeng Sun, Hao Che, Su Hu, Zhengqi Wen, Zhao Lv, A Domain Adaptation Framework by Aligning the Inverse Gram Matrices for Cross-Subject Motor Imagery Classification. **IEEE Transactions on Consumer Electronics**, 2025, 5390 - 5403. [paper](https://ieeexplore.ieee.org/document/11015936)  -->
    
 * **Cunhang Fan**; Jianhua Tao; Bin Liu; Jiangyan Yi; Zhengqi Wen; Xuefei Liu, End-to-End Post-filter for Speech Separation with Deep Attention Fusion Features, **IEEE/ACM Transactions on Audio, Speech, and Language Processing**, 2020, 28:1303-1314.[paper](https://www.researchgate.net/profile/Jianhua-Tao/publication/340068475_End-to-End_Post-Filter_for_Speech_Separation_With_Deep_Attention_Fusion_Features/links/6408938ab1704f343fb486ae/End-to-End-Post-Filter-for-Speech-Separation-With-Deep-Attention-Fusion-Features.pdf) **(语音领域顶级期刊, CAAI A, CCF B)**
@@ -76,6 +78,8 @@ Conference Papers
 * **Cunhang Fan**; Enrui Liu; Andong Li; Jianhua Tao; Jian Zhou; Jiahao Li; Chengshi Zheng; Zhao Lv. BSDB-Net:Band-Split Dual-Branch Network with Selective State Spaces Mechanism for Monaural Speech Enhancement. **Proceedings of the AAAI Conference on Artificial Intelligence**, 2025, 39(22): 23850-23858.[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34557/36712)  **(CCF A)**
 
 * **Cunhang Fan**; Yujie Chen; Jun Xue; Yonghui Kong; Jianhua Tao; Zhao Lv. Progressive Distillation Based on Masked Generation Feature Method for Knowledge Graph Completion. **Proceedings of the AAAI Conference on Artificial Intelligence**, 2024, 38(8), 8380-8388.[paper](https://arxiv.org/pdf/2401.12997.pdf)  [code]( https://github.com/cyjie429/pmd) **(CCF A)**
+
+* Zhao Lv, Haoran Zhou, Ying Chen, Youdian Gao, Xinhui Li, Ruibo Fu, **Cunhang Fan**. Trainable EEG Interpolation and Structure-Sharing Dual-Path Encoders for Brain-Assisted Target Speaker Extraction. **Proceedings of the AAAI Conference on Artificial Intelligence**, 2026. **(CCF A, 唯一通讯作者)**
   
 * Qinke Ni; Hongyu Zhang; **Cunhang Fan#**; Shengbing Pei; Chang Zhou; Zhao Lv, DBPNet: Dual-Branch Parallel Network with Temporal-Frequency Fusion for Auditory Attention Detection. **International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju, 2024:3115-3123. (Corresponding author)[paper](https://www.ijcai.org/proceedings/2024/0345.pdf)  [code]( https://github.com/fchest/DBPNet) **(人工智能领域顶会, CCF A, 共同通讯作者, 共同第一作者)**
   
