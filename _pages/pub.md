@@ -81,7 +81,7 @@ Conference Papers
 
 * **Cunhang Fan**; Yujie Chen; Jun Xue; Yonghui Kong; Jianhua Tao; Zhao Lv. Progressive Distillation Based on Masked Generation Feature Method for Knowledge Graph Completion. **Proceedings of the AAAI Conference on Artificial Intelligence**, 2024, 38(8), 8380-8388.[paper](https://arxiv.org/pdf/2401.12997.pdf)  [code]( https://github.com/cyjie429/pmd) **(CCF A)**
 
-* Zhao Lv, Haoran Zhou, Ying Chen, Youdian Gao, Xinhui Li, Ruibo Fu, **Cunhang Fan**. Trainable EEG Interpolation and Structure-Sharing Dual-Path Encoders for Brain-Assisted Target Speaker Extraction. **Proceedings of the AAAI Conference on Artificial Intelligence**, 2026. **(CCF A, 唯一通讯作者)**
+* Zhao Lv, Haoran Zhou, Ying Chen, Youdian Gao, Xinhui Li, Ruibo Fu, **Cunhang Fan**. Trainable EEG Interpolation and Structure-Sharing Dual-Path Encoders for Brain-Assisted Target Speaker Extraction. **Proceedings of the AAAI Conference on Artificial Intelligence**, 2026, 40(38), 32392-32400. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/40514)  **(CCF A, 唯一通讯作者)**
   
 * Qinke Ni; Hongyu Zhang; **Cunhang Fan#**; Shengbing Pei; Chang Zhou; Zhao Lv, DBPNet: Dual-Branch Parallel Network with Temporal-Frequency Fusion for Auditory Attention Detection. **International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju, 2024:3115-3123. (Corresponding author)[paper](https://www.ijcai.org/proceedings/2024/0345.pdf)  [code]( https://github.com/fchest/DBPNet) **(人工智能领域顶会, CCF A, 共同通讯作者, 共同第一作者)**
   
