@@ -38,7 +38,7 @@ Journal Papers
 
 * **范存航**; 李骏凌; 张晶晶; 高佑典; 陈颖; 易江燕; 吕钊, 基于门控交叉注意力融合的神经导向说话人提取方法. **计算机研究与发展**, 2026. [paper](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202550467) **(CCF A)**
 
-<!-- * **Cunhang Fan**; Fan Yang, Jingjing Zhang, Jingpeng Sun, Hao Che, Su Hu, Zhengqi Wen, Zhao Lv, A Domain Adaptation Framework by Aligning the Inverse Gram Matrices for Cross-Subject Motor Imagery Classification. **IEEE Transactions on Consumer Electronics**, 2025, 5390 - 5403. [paper](https://ieeexplore.ieee.org/document/11015936)  -->
+* **Cunhang Fan**; Fan Yang, Jingjing Zhang, Jingpeng Sun, Hao Che, Su Hu, Zhengqi Wen, Zhao Lv, A Domain Adaptation Framework by Aligning the Inverse Gram Matrices for Cross-Subject Motor Imagery Classification. **IEEE Transactions on Consumer Electronics**, 2025, 5390 - 5403. [paper](https://ieeexplore.ieee.org/document/11015936) **(中科院一区top)**
    
 * **Cunhang Fan**; Jianhua Tao; Bin Liu; Jiangyan Yi; Zhengqi Wen; Xuefei Liu, End-to-End Post-filter for Speech Separation with Deep Attention Fusion Features, **IEEE/ACM Transactions on Audio, Speech, and Language Processing**, 2020, 28:1303-1314.[paper](https://www.researchgate.net/profile/Jianhua-Tao/publication/340068475_End-to-End_Post-Filter_for_Speech_Separation_With_Deep_Attention_Fusion_Features/links/6408938ab1704f343fb486ae/End-to-End-Post-Filter-for-Speech-Separation-With-Deep-Attention-Fusion-Features.pdf) **(语音领域顶级期刊, CAAI A, CCF B)**
 
