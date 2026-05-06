@@ -17,6 +17,7 @@ My research interests include:
 
 News:
 ----
+* The paper "PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding" has been accepted by **Forty-Third International Conference on Machine Learning（ICML 2026，CCF A）**
 * The paper "ReFL: Reflective Feedback Learning for Hallucination Detection of Large Language Models" has been accepted by **The Annual Meeting of the Association for Computational Linguistics（ACL 2026，CCF A）**
 * The paper "SSE-Net: Towards Low-Power-Consumption Spiking Neural Network for Monaural Speech Enhancement" has been accepted by **IEEE Transactions on Audio, Speech, and Language Processing（CAAI A）**
 * The paper "Trainable EEG Interpolation and Structure-Sharing Dual-Path Encoders for Brain-Assisted Target Speaker Extraction" has been accepted by **AAAI 2026（CCF A）**
