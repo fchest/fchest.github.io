@@ -24,7 +24,8 @@ redirect_from:
 * 环境音频深度伪造检测国际挑战赛双冠军（ESDD2）ICME 2026
 * 环境音频深度伪造检测国际挑战赛双赛道冠军（ESDD）ICASSP 2026
 * The MuSe-Mimic 2023 Multimodal Sentiment Analysis Challenge Prize (国际多模态情感计算挑战赛第一名)，2023
-* 第十九届全国信号处理学术会议优秀论文奖，2019.
+* 第十九届全国信号处理学术会议优秀论文奖，2019
+* Silver Reviewer Award，ICML 2026
 * Outstanding Reviewer Recognition, ICASSP 2023, 2023
 * 2020 9th International Conference on Computing and Pattern Recognition (ICCPR 2020) Best Paper，2020.
 
