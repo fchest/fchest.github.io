@@ -24,6 +24,8 @@ The full list of my publications can be found on my [Google Scholar](https://sch
 Journal Papers
 ======
 
+* **Cunhang Fan**; Enrui Liu; Jing Zhou; Jian Kang; Jie Li; Andong Li; Jian Zhou; Zhao Lv; Xuelong Li, DBHN-Net: Dual-Branch Hybrid Neural Network For Low-Complexity Monaural Speech Enhancement. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2026. **(人工智能领域顶级期刊, CCF A)**
+
 * Nayu Liu; Kaiwen Wei; Yong Yang; Jianhua Tao; Xian Sun; Fanglong Yao; Hongfeng Yu; Li Jin; Zhao Lv; **Cunhang Fan**, Multimodal Cross-lingual Summarization for Videos: A Revisit in Knowledge Distillation Induced Triple-stage Training Method. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2024, 46:10697-10714.[paper](https://ieeexplore.ieee.org/document/10643687)  [code](https://github.com/fchest/DKDSSD) **(人工智能领域顶级期刊, CCF A, 唯一通讯作者)**
 
 * Enrui Liu; Andong Li; **Cunhang Fan**; Chengshi Zheng; Jiangyan Yi; Ruibo Fu; Xinhui Li; Jian Zhou; Zhao Lv, SSE-Net: Towards Low-Power-Consumption Spiking Neural Network for Monaural Speech Enhancement. **IEEE Transactions on Audio, Speech, and Language Processing**, 2026, 34: 2077 - 2089. [paper](https://ieeexplore.ieee.org/document/11456080)  **(语音领域顶级期刊, CAAI A, CCF B, 唯一通讯作者)**
@@ -63,6 +65,8 @@ Journal Papers
 
 Conference Papers
 ======
+* Xiran Chen; Xiaoke Yang; Jian Zhou; Zhao Lv; **Cunhang Fan**, PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding. **International Conference on Machine Learning (ICML)**, 2026.**(CCF A, 唯一通讯作者)** 
+
 * **Cunhang Fan**; Sheng Zhang; Jingjing Zhang; Enrui Liu; Xinhui Li; Gangming Zhao; Zhao Lv, DMF2Mel: A Dynamic Multiscale Fusion Network for EEG-Driven Mel Spectrogram Reconstruction. **ACM International Conference on Multimedia (ACM MM)**, 2025: 6977 - 6985. [paper](https://dl.acm.org/doi/10.1145/3746027.3755501) **(CCF A)**
 
 * Jian Zhou; Yingjie Xie; **Cunhang Fan**; Huabin Wang; Zhao Lv; Liang Tao, DHGCN: Dual HyperGraph Convolutional Network for EEG-Based Auditory Attention Detection. **ACM International Conference on Multimedia (ACM MM)**, 2025: 612-620. [paper](https://dl.acm.org/doi/abs/10.1145/3746027.3755579) **(CCF A, 唯一通讯作者)**
