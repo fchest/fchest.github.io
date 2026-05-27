@@ -65,6 +65,8 @@ Journal Papers
 
 Conference Papers
 ======
+* **Cunhang Fan**, Jun Zhang, Xue Zhang, Shuai Zhang, Zhao Lv, Jianhua Tao, Zhengqi Wen, ReFL: Reflective Feedback Learning for Hallucination Detection of Large Language Models. **The 64th Annual Meeting of the Association for Computational Linguistics (ACL)**, 2026.**(CCF A)**
+
 * Xiran Chen; Xiaoke Yang; Jian Zhou; Zhao Lv; **Cunhang Fan**, PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding. **International Conference on Machine Learning (ICML)**, 2026.**(CCF A, 唯一通讯作者)** 
 
 * **Cunhang Fan**; Sheng Zhang; Jingjing Zhang; Enrui Liu; Xinhui Li; Gangming Zhao; Zhao Lv, DMF2Mel: A Dynamic Multiscale Fusion Network for EEG-Driven Mel Spectrogram Reconstruction. **ACM International Conference on Multimedia (ACM MM)**, 2025: 6977 - 6985. [paper](https://dl.acm.org/doi/10.1145/3746027.3755501) **(CCF A)**
