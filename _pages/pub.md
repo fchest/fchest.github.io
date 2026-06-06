@@ -24,7 +24,7 @@ The full list of my publications can be found on my [Google Scholar](https://sch
 Journal Papers
 ======
 
-* **Cunhang Fan**; Enrui Liu; Jing Zhou; Jian Kang; Jie Li; Andong Li; Jian Zhou; Zhao Lv; Xuelong Li, DBHN-Net: Dual-Branch Hybrid Neural Network For Low-Complexity Monaural Speech Enhancement. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2026. **(人工智能领域顶级期刊, CCF A)**
+* **Cunhang Fan**; Enrui Liu; Jing Zhou; Jian Kang; Jie Li; Andong Li; Jian Zhou; Zhao Lv; Xuelong Li, DBHN-Net: Dual-Branch Hybrid Neural Network For Low-Complexity Monaural Speech Enhancement. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2026. [paper](https://ieeexplore.ieee.org/document/11538354)  **(人工智能领域顶级期刊, CCF A)**
 
 * Nayu Liu; Kaiwen Wei; Yong Yang; Jianhua Tao; Xian Sun; Fanglong Yao; Hongfeng Yu; Li Jin; Zhao Lv; **Cunhang Fan**, Multimodal Cross-lingual Summarization for Videos: A Revisit in Knowledge Distillation Induced Triple-stage Training Method. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2024, 46:10697-10714.[paper](https://ieeexplore.ieee.org/document/10643687)  [code](https://github.com/fchest/DKDSSD) **(人工智能领域顶级期刊, CCF A, 唯一通讯作者)**
 
