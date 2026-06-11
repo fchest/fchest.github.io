@@ -26,12 +26,12 @@ Journal Papers
 
 * **Cunhang Fan**; Enrui Liu; Jing Zhou; Jian Kang; Jie Li; Andong Li; Jian Zhou; Zhao Lv; Xuelong Li, DBHN-Net: Dual-Branch Hybrid Neural Network For Low-Complexity Monaural Speech Enhancement. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2026. [paper](https://ieeexplore.ieee.org/document/11538354)  **(人工智能领域顶级期刊, CCF A)**
 
-* Nayu Liu; Kaiwen Wei; Yong Yang; Jianhua Tao; Xian Sun; Fanglong Yao; Hongfeng Yu; Li Jin; Zhao Lv; **Cunhang Fan**, Multimodal Cross-lingual Summarization for Videos: A Revisit in Knowledge Distillation Induced Triple-stage Training Method. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2024, 46:10697-10714.[paper](https://ieeexplore.ieee.org/document/10643687)  [code](https://github.com/fchest/DKDSSD) **(人工智能领域顶级期刊, CCF A, 唯一通讯作者)**
+* Nayu Liu; Kaiwen Wei; Yong Yang; Jianhua Tao; Xian Sun; Fanglong Yao; Hongfeng Yu; Li Jin; Zhao Lv; **Cunhang Fan#**, Multimodal Cross-lingual Summarization for Videos: A Revisit in Knowledge Distillation Induced Triple-stage Training Method. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2024, 46:10697-10714.[paper](https://ieeexplore.ieee.org/document/10643687)  [code](https://github.com/fchest/DKDSSD) **(人工智能领域顶级期刊, CCF A, 唯一通讯作者)**
 
 * Jian Zhou; Lei Wang; **Cunhang Fan#**; Wenming Zheng; Hon Keung Kwan, STMH: Speech-Text Modality Harmonization for Controllable Emotional Speech Synthesis With Mel-derivative Augmented Conditional Adversarial Training
 . **IEEE Transactions on Affective Computing**, 2026. [paper](https://ieeexplore.ieee.org/document/11554918)  **(情感计算领域顶级期刊, CAAI A, CCF B, 唯一通讯作者)**
 
-* Enrui Liu; Andong Li; **Cunhang Fan**; Chengshi Zheng; Jiangyan Yi; Ruibo Fu; Xinhui Li; Jian Zhou; Zhao Lv, SSE-Net: Towards Low-Power-Consumption Spiking Neural Network for Monaural Speech Enhancement. **IEEE Transactions on Audio, Speech, and Language Processing**, 2026, 34: 2077 - 2089. [paper](https://ieeexplore.ieee.org/document/11456080)  **(语音领域顶级期刊, CAAI A, CCF B, 唯一通讯作者)**
+* Enrui Liu; Andong Li; **Cunhang Fan#**; Chengshi Zheng; Jiangyan Yi; Ruibo Fu; Xinhui Li; Jian Zhou; Zhao Lv, SSE-Net: Towards Low-Power-Consumption Spiking Neural Network for Monaural Speech Enhancement. **IEEE Transactions on Audio, Speech, and Language Processing**, 2026, 34: 2077 - 2089. [paper](https://ieeexplore.ieee.org/document/11456080)  **(语音领域顶级期刊, CAAI A, CCF B, 唯一通讯作者)**
 
 * **Cunhang Fan**; Jiahao Li; Enrui Liu; Jiangyan Yi; Xinhui Li; Ruibo Fu; Zhao Lv, A Joint Training Framework for Noise-Robust Speech Recognition through Multi-Level Feature Fusion. **IEEE Transactions on Audio, Speech, and Language Processing**, 2025, 33: 4808 - 4820. [paper](https://ieeexplore.ieee.org/document/11249740) **(语音领域顶级期刊, CAAI A, CCF B)**
 
@@ -70,19 +70,19 @@ Conference Papers
 ======
 * **Cunhang Fan**, Jun Zhang, Xue Zhang, Shuai Zhang, Zhao Lv, Jianhua Tao, Zhengqi Wen, ReFL: Reflective Feedback Learning for Hallucination Detection of Large Language Models. **The 64th Annual Meeting of the Association for Computational Linguistics (ACL)**, 2026.**(CCF A)**
 
-* Xiran Chen; Xiaoke Yang; Jian Zhou; Zhao Lv; **Cunhang Fan**, PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding. **International Conference on Machine Learning (ICML)**, 2026.**(CCF A, 唯一通讯作者)** 
+* Xiran Chen; Xiaoke Yang; Jian Zhou; Zhao Lv; **Cunhang Fan#**, PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding. **International Conference on Machine Learning (ICML)**, 2026.**(CCF A, 唯一通讯作者)** 
 
 * **Cunhang Fan**; Sheng Zhang; Jingjing Zhang; Enrui Liu; Xinhui Li; Gangming Zhao; Zhao Lv, DMF2Mel: A Dynamic Multiscale Fusion Network for EEG-Driven Mel Spectrogram Reconstruction. **ACM International Conference on Multimedia (ACM MM)**, 2025: 6977 - 6985. [paper](https://dl.acm.org/doi/10.1145/3746027.3755501) **(CCF A)**
 
-* Jian Zhou; Yingjie Xie; **Cunhang Fan**; Huabin Wang; Zhao Lv; Liang Tao, DHGCN: Dual HyperGraph Convolutional Network for EEG-Based Auditory Attention Detection. **ACM International Conference on Multimedia (ACM MM)**, 2025: 612-620. [paper](https://dl.acm.org/doi/abs/10.1145/3746027.3755579) **(CCF A, 唯一通讯作者)**
+* Jian Zhou; Yingjie Xie; **Cunhang Fan#**; Huabin Wang; Zhao Lv; Liang Tao, DHGCN: Dual HyperGraph Convolutional Network for EEG-Based Auditory Attention Detection. **ACM International Conference on Multimedia (ACM MM)**, 2025: 612-620. [paper](https://dl.acm.org/doi/abs/10.1145/3746027.3755579) **(CCF A, 唯一通讯作者)**
 
 * **Cunhang Fan**; Xiaoke Yang; Hongyu Zhang; Ying Chen; Lu Li; Jian Zhou; Zhao Lv, ListenNet: A Lightweight Spatio-Temporal Enhancement Nested Network for Auditory Attention Detection. **International Joint Conference on Artificial Intelligence (IJCAI 2025)**, 2025, 4137-4145. [paper](https://www.ijcai.org/proceedings/2025/461) **(CCF A)**
 
 * **Cunhang Fan**; Ying Chen; Jian Zhou; Zexu Pan; Jingjing Zhang; Youdian Gao; Xiaoke Yang; Zhengqi Wen; Zhao Lv, M3ANet: Multi-scale and Multi-Modal Alignment Network for Brain-Assisted Target Speaker Extraction. **International Joint Conference on Artificial Intelligence (IJCAI 2025)**, 2025, 8040-8048. [paper](https://www.ijcai.org/proceedings/2025/894) **(CCF A)**
 
-* Lu Li; **Cunhang Fan**; Hongyu Zhang; Jingjing Zhang; Xiaoke Yang; Jian Zhou; Zhao Lv, MHANet: Multi-scale Hybrid Attention Network for Auditory Attention Detection. **International Joint Conference on Artificial Intelligence (IJCAI 2025)**, 2025, 4173-4181. [paper](https://www.ijcai.org/proceedings/2025/465) **(CCF A, 唯一通讯作者)**
+* Lu Li; **Cunhang Fan#**; Hongyu Zhang; Jingjing Zhang; Xiaoke Yang; Jian Zhou; Zhao Lv, MHANet: Multi-scale Hybrid Attention Network for Auditory Attention Detection. **International Joint Conference on Artificial Intelligence (IJCAI 2025)**, 2025, 4173-4181. [paper](https://www.ijcai.org/proceedings/2025/465) **(CCF A, 唯一通讯作者)**
 
-* Sheng Yan; **Cunhang Fan**; Hongyu Zhang; Xiaoke Yang; Jianhua Tao; Zhao Lv, DARNet: Dual Attention Refinement Network with Spatiotemporal Construction for Auditory Attention Detection. **Annual Conference on Neural Information Processing Systems (NeurIPS)**, 2024, 37: 31688-31707. [paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/382066d1460144ddcb041f32d05de053-Abstract-Conference.html)**(人工智能领域顶会, CCF A, 唯一通讯作者, 共同第一作者)**
+* Sheng Yan; **Cunhang Fan#**; Hongyu Zhang; Xiaoke Yang; Jianhua Tao; Zhao Lv, DARNet: Dual Attention Refinement Network with Spatiotemporal Construction for Auditory Attention Detection. **Annual Conference on Neural Information Processing Systems (NeurIPS)**, 2024, 37: 31688-31707. [paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/382066d1460144ddcb041f32d05de053-Abstract-Conference.html)**(人工智能领域顶会, CCF A, 唯一通讯作者, 共同第一作者)**
 
 * **Cunhang Fan**; Jingjing Zhang; Hongyu Zhang; Wang Xiang; Jianhua Tao; Xinhui Li; Jiangyan Yi; Dianbo Sui; Zhao Lv, MSFNet: Multi-Scale Fusion Network for Brain-Controlled Speaker Extraction. **ACM International Conference on Multimedia (ACM MM)**, 2024, 1652 - 1661. [paper](https://dl.acm.org/doi/10.1145/3664647.3681550) **(CCF A)**
 
@@ -90,7 +90,7 @@ Conference Papers
 
 * **Cunhang Fan**; Yujie Chen; Jun Xue; Yonghui Kong; Jianhua Tao; Zhao Lv. Progressive Distillation Based on Masked Generation Feature Method for Knowledge Graph Completion. **Proceedings of the AAAI Conference on Artificial Intelligence**, 2024, 38(8), 8380-8388.[paper](https://arxiv.org/pdf/2401.12997.pdf)  [code]( https://github.com/cyjie429/pmd) **(CCF A)**
 
-* Zhao Lv, Haoran Zhou, Ying Chen, Youdian Gao, Xinhui Li, Ruibo Fu, **Cunhang Fan**. Trainable EEG Interpolation and Structure-Sharing Dual-Path Encoders for Brain-Assisted Target Speaker Extraction. **Proceedings of the AAAI Conference on Artificial Intelligence**, 2026, 40(38), 32392-32400. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/40514)  **(CCF A, 唯一通讯作者)**
+* Zhao Lv, Haoran Zhou, Ying Chen, Youdian Gao, Xinhui Li, Ruibo Fu, **Cunhang Fan#**. Trainable EEG Interpolation and Structure-Sharing Dual-Path Encoders for Brain-Assisted Target Speaker Extraction. **Proceedings of the AAAI Conference on Artificial Intelligence**, 2026, 40(38), 32392-32400. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/40514)  **(CCF A, 唯一通讯作者)**
   
 * Qinke Ni; Hongyu Zhang; **Cunhang Fan#**; Shengbing Pei; Chang Zhou; Zhao Lv, DBPNet: Dual-Branch Parallel Network with Temporal-Frequency Fusion for Auditory Attention Detection. **International Joint Conference on Artificial Intelligence (IJCAI 2024)**, Jeju, 2024:3115-3123. (Corresponding author)[paper](https://www.ijcai.org/proceedings/2024/0345.pdf)  [code]( https://github.com/fchest/DBPNet) **(人工智能领域顶会, CCF A, 共同通讯作者, 共同第一作者)**
   
