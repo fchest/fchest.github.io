@@ -17,6 +17,7 @@ My research interests include:
 
 News:
 ----
+* The paper "STMH: Speech-Text Modality Harmonization for Controllable Emotional Speech Synthesis With Mel-derivative Augmented Conditional Adversarial Training" has been accepted by **IEEE Transactions on Affective Computing（TAFFC 2026）**
 * The paper "DBHN-Net: Dual-Branch Hybrid Neural Network For Low-Complexity Monaural Speech Enhancement" has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence（TPAMI 2026，CCF A）**
 * The paper "PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding" has been accepted by **Forty-Third International Conference on Machine Learning（ICML 2026，CCF A）**
 * The paper "ReFL: Reflective Feedback Learning for Hallucination Detection of Large Language Models" has been accepted by **The Annual Meeting of the Association for Computational Linguistics（ACL 2026，CCF A）**
