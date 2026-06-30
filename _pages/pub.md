@@ -68,7 +68,7 @@ Journal Papers
 
 Conference Papers
 ======
-* **Cunhang Fan**, Jun Zhang, Xue Zhang, Shuai Zhang, Zhao Lv, Jianhua Tao, Zhengqi Wen, ReFL: Reflective Feedback Learning for Hallucination Detection of Large Language Models. **The 64th Annual Meeting of the Association for Computational Linguistics (ACL)**, 2026.**(CCF A)**
+* **Cunhang Fan**, Jun Zhang, Xue Zhang, Shuai Zhang, Zhao Lv, Jianhua Tao, Zhengqi Wen, ReFL: Reflective Feedback Learning for Hallucination Detection of Large Language Models. **The 64th Annual Meeting of the Association for Computational Linguistics (ACL)**, 2026: 19648–19665. [paper](https://aclanthology.org/2026.acl-long.899/)**(CCF A)**
 
 * Xiran Chen; Xiaoke Yang; Jian Zhou; Zhao Lv; **Cunhang Fan#**, PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding. **International Conference on Machine Learning (ICML)**, 2026.**(CCF A, 唯一通讯作者)** 
 
