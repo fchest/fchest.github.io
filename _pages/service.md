@@ -52,7 +52,7 @@ Members
 
 Editors
 ======
-* IEEE Transactions on Audio, Speech and Language Processing, Associate Editor
+* [IEEE Transactions on Audio, Speech and Language Processing](https://signalprocessingsociety.org/publications-resources/ieee-transactions-audio-speech-and-language-processing/editorial-board), Associate Editor
 * Scientific Reports, Editorial Board
 * [Signal Processing Open](https://www.sciencedirect.com/journal/signal-processing-open/about/editorial-board), Associate Editor
 * Metaverse, Youth Editorial Board
