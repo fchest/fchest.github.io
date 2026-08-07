@@ -21,6 +21,7 @@ Chairs
 * Session Chair, ACM MM 2025
 * Session Chair, IJCAI 2025
 * Session Chair, IJCAI 2024
+* Senior Program Committee Member, AAAI 2027
 * Meta Reviewer, ICASSP 2026
 * Senior Program Committee Member, IJCAI 2026 
 * Financial Chair, [ICASSP 2025 Satellite Event in Suzhou](https://www.ncmmsc.org.cn/2025ICASSP_China/zzwyh/)
