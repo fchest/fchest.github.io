@@ -17,6 +17,7 @@ My research interests include:
 
 News:
 ----
+* The paper "DA2Mel: A Dual-Dynamic Adaptive Network for EEG-to-Mel Spectrogram Reconstruction" has been accepted by **ACM Transactions on Autonomous and Adaptive Systems（CCF B，2026）**
 * The paper "FLADD: Federated Learning-based Privacy Protection for Audio Deepfake Detection" has been accepted by **IEEE Transactions on Audio, Speech, and Language Processing（CAAI A，2026）**
 * The paper "STMH: Speech-Text Modality Harmonization for Controllable Emotional Speech Synthesis With Mel-derivative Augmented Conditional Adversarial Training" has been accepted by **IEEE Transactions on Affective Computing（TAFFC 2026）**
 * The paper "DBHN-Net: Dual-Branch Hybrid Neural Network For Low-Complexity Monaural Speech Enhancement" has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence（TPAMI 2026，CCF A）**
