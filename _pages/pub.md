@@ -39,7 +39,11 @@ Journal Papers
 
 * **Cunhang Fan**; Mingming Ding; Jianhua Tao; Ruibo Fu; Jiangyan Yi; Zhengqi Wen; Zhao Lv, Dual-Branch Knowledge Distillation for Noise-Robust Synthetic Speech Detection. **IEEE/ACM Transactions on Audio, Speech, and Language Processing**, 2024, 32:2453-2466.[paper](https://ieeexplore.ieee.org/document/10506099/)  [code](https://github.com/fchest/DKDSSD) **(语音领域顶级期刊, CAAI A, CCF B)**
 
+* **Cunhang Fan**; Zhiqiang Tang; Jun Xue; Junqin Cao; Zhao Lv; Zhengqi Wen; Jianhua Tao, FLADD: Federated Learning-Based Privacy Protection for Audio Deepfake Detection. **IEEE Transactions on Audio, Speech, and Language Processing**, 2026. [paper](https://ieeexplore.ieee.org/abstract/document/11667820) **(语音领域顶级期刊, CAAI A, CCF B)**
+
 * **Cunhang Fan**; Kang Zhu; Jianhua Tao; Guofeng Yi; Jun Xue; Zhao Lv, Multi-level Contrastive Learning: Hierarchical Alleviation of Heterogeneity in Multimodal Sentiment Analysis. **IEEE Transactions on Affective Computing**, 2025, 16:207-222. [paper](https://ieeexplore.ieee.org/document/10587106) [code](https://github.com/Zhudogsi/MCL-MCF) **(情感计算领域顶级期刊, CAAI A, CCF B)**
+
+* **Cunhang Fan**; Huiyao Lv, Sheng Zhang, Jian Zhou, Xinhui Li, Changyin Sun, and Zhao Lv. DA2Mel: A Dual-Dynamic Adaptive Network for EEG-to-Mel Spectrogram Reconstruction. **ACM Transactions on Autonomous and Adaptive Systems**, 2026. [paper](https://dl.acm.org/doi/abs/10.1145/3845811)  **(CCF B)**
 
 * **范存航**; 李骏凌; 张晶晶; 高佑典; 陈颖; 易江燕; 吕钊, 基于门控交叉注意力融合的神经导向说话人提取方法. **计算机研究与发展**, 2026, 63(6): 1534-1547. [paper](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202550467) **(CCF A)**
 
