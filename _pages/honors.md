@@ -27,7 +27,7 @@ redirect_from:
 * 阿拉伯语音深度伪造检测国际挑战赛冠军（ArA-DF 2026），EMNLP 2026
 * 全类型音频深度伪造检测国际挑战赛最佳方案奖（AT-ADD 2026），ACM MM 2026
 * 国际多模态情感计算挑战赛冠军（MuSe-Mimic 2023），ACM MM 2023
-* NCMMSC 2026亮点论文
+* 亮点论文，NCMMSC 2026
 <!--* The MuSe-Mimic 2023 Multimodal Sentiment Analysis Challenge Prize (国际多模态情感计算挑战赛第一名)，2023-->
 * 第十九届全国信号处理学术会议优秀论文奖，2019
 * Silver Reviewer Award，ICML 2026
